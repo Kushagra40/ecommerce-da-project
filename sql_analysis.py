@@ -88,3 +88,95 @@ delivery = df.groupby('customer_state').agg(
 delivery.to_csv(os.path.join(data_path, 'delivery_performance.csv'), index=False)
 
 print("All outputs saved successfully!")
+
+import sqlite3
+
+# Load clean data into SQLite database
+df = pd.read_csv(os.path.join(data_path, 'master_clean.csv'))
+conn = sqlite3.connect(os.path.join(data_path, 'ecommerce.db'))
+df.to_sql('orders', conn, if_exists='replace', index=False)
+print("Data loaded into SQLite successfully")
+
+# ── QUERY 1: Top 10 categories by revenue ────────────────────────
+query1 = pd.read_sql("""
+    SELECT 
+        category,
+        ROUND(SUM(payment_value), 2) AS total_revenue,
+        COUNT(DISTINCT order_id) AS total_orders,
+        ROUND(AVG(payment_value), 2) AS avg_order_value
+    FROM orders
+    GROUP BY category
+    ORDER BY total_revenue DESC
+    LIMIT 10
+""", conn)
+
+print("\n=== TOP 10 CATEGORIES BY REVENUE ===")
+print(query1)
+
+# ── QUERY 2: Delivery performance by state ───────────────────────
+query2 = pd.read_sql("""
+    SELECT 
+        customer_state,
+        ROUND(AVG(delivery_days), 2) AS avg_delivery_days,
+        ROUND(AVG(is_late) * 100, 2) AS late_rate_pct,
+        COUNT(DISTINCT order_id) AS total_orders
+    FROM orders
+    GROUP BY customer_state
+    ORDER BY avg_delivery_days DESC
+""", conn)
+
+print("\n=== DELIVERY PERFORMANCE BY STATE ===")
+print(query2)
+
+# ── QUERY 3: Monthly revenue trend ───────────────────────────────
+query3 = pd.read_sql("""
+    SELECT 
+        order_month,
+        ROUND(SUM(payment_value), 2) AS monthly_revenue,
+        COUNT(DISTINCT order_id) AS total_orders,
+        ROUND(AVG(payment_value), 2) AS avg_order_value
+    FROM orders
+    GROUP BY order_month
+    ORDER BY order_month
+""", conn)
+
+print("\n=== MONTHLY REVENUE TREND ===")
+print(query3)
+
+# ── QUERY 4: Late delivery rate by month (window function) ───────
+query4 = pd.read_sql("""
+    SELECT 
+        order_month,
+        COUNT(DISTINCT order_id) AS total_orders,
+        SUM(is_late) AS late_orders,
+        ROUND(SUM(is_late) * 100.0 / COUNT(DISTINCT order_id), 2) AS late_rate_pct,
+        ROUND(AVG(SUM(is_late) * 100.0 / COUNT(DISTINCT order_id)) 
+              OVER (ORDER BY order_month ROWS BETWEEN 2 PRECEDING AND CURRENT ROW), 2) 
+              AS rolling_3m_late_rate
+    FROM orders
+    GROUP BY order_month
+    ORDER BY order_month
+""", conn)
+
+print("\n=== LATE DELIVERY TREND WITH 3-MONTH ROLLING AVERAGE ===")
+print(query4)
+
+# ── QUERY 5: Customer segmentation summary ───────────────────────
+query5 = pd.read_sql("""
+    SELECT 
+        customer_state,
+        COUNT(DISTINCT customer_unique_id) AS unique_customers,
+        ROUND(SUM(payment_value), 2) AS total_revenue,
+        ROUND(AVG(payment_value), 2) AS avg_order_value,
+        ROUND(SUM(payment_value) * 100.0 / SUM(SUM(payment_value)) OVER (), 2) AS revenue_share_pct
+    FROM orders
+    GROUP BY customer_state
+    ORDER BY total_revenue DESC
+    LIMIT 10
+""", conn)
+
+print("\n=== TOP 10 STATES BY REVENUE WITH SHARE ===")
+print(query5)
+
+conn.close()
+print("\nAll SQL queries executed successfully!")
