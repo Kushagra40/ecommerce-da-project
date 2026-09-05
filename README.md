@@ -47,11 +47,14 @@ This project answers all of them — using **100,000+ real orders** from Olist, 
 
 ## 🛠️ Tech Stack
 
+## 🛠️ Tech Stack
+
 ```
-Data Cleaning    →  Python (Pandas, NumPy)
-Data Modeling    →  SQL (Joins, CTEs, Window Functions, Aggregations)
-Segmentation     →  RFM Analysis (Recency, Frequency, Monetary)
-Retention        →  Cohort Analysis (24-month retention table)
+Data Ingestion   →  Python (Pandas, NumPy) — load 9 raw CSV tables
+Data Cleaning    →  Python (Pandas) — nulls, date formats, outliers
+Data Merging     →  Python (Pandas) — join 9 tables into master dataset
+SQL Analysis     →  SQLite — 5 queries (aggregations, GROUP BY, window functions)
+Segmentation     →  Python (Pandas) — RFM scoring across 93K customers
 Visualization    →  Power BI (DAX Measures, Drill-through, KPI Cards)
 ```
 
@@ -84,25 +87,33 @@ Step 2 — Cleaning
   Fix date formats across 5 timestamp columns
   Remove outliers (delivery > 120 days, payment ≤ 0)
 
-Step 3 — Merging
+Step 3 — SQL Analysis
+  Load master dataset into SQLite database
+  Query 1: Top 10 categories by revenue (GROUP BY, SUM, AVG)
+  Query 2: Delivery performance by state (AVG, COUNT)
+  Query 3: Monthly revenue trend (GROUP BY order_month)
+  Query 4: Rolling 3-month late delivery rate (WINDOW FUNCTION)
+  Query 5: Revenue share by state (SUM OVER window function)
+
+Step 4 — Merging
   Join all 9 tables into one master table (110,000+ rows)
   Aggregate payments per order to avoid duplicate rows
 
-Step 4 — Feature Engineering
+Step 5 — Feature Engineering
   delivery_days = delivered_date - purchase_date
   is_late = delivered_date > estimated_date
   delivery_status = On-Time / Late label
   order_month = purchase month for trend analysis
 
-Step 5 — RFM Segmentation
+Step 6 — RFM Segmentation
   Score 93,312 customers on Recency, Frequency, Monetary
   Classify into 5 behavioral segments
 
-Step 6 — Cohort Analysis
+Step 7 — Cohort Analysis
   Build 24-month retention table
   Identify critical drop-off windows
 
-Step 7 — Power BI Dashboard
+Step 8 — Power BI Dashboard
   3 pages, 15+ visuals, DAX measures, drill-through
 ```
 
