@@ -1,0 +1,4085 @@
+customer_city,avg_delivery_days,late_rate,total_orders
+abadia dos dourados,11.333333333333334,0.0,3
+abadiania,29.0,0.0,1
+abaete,9.916666666666666,0.08333333333333333,12
+abaetetuba,25.714285714285715,0.2857142857142857,11
+abaiara,35.0,0.5,2
+abaira,14.5,0.0,2
+abare,17.0,0.0,2
+abatia,18.666666666666668,0.0,3
+abdon batista,14.0,0.0,1
+abelardo luz,18.666666666666668,0.16666666666666666,6
+abrantes,15.0,0.0,1
+abre campo,11.6,0.0,5
+abreu e lima,14.571428571428571,0.0,11
+acaiaca,11.0,0.0,2
+acailandia,16.0,0.0,7
+acajutiba,16.0,0.0,1
+acarau,32.0,0.5555555555555556,8
+acari,12.0,0.0,1
+acegua,23.0,0.0,2
+acopiara,22.375,0.0,7
+acreuna,14.444444444444445,0.0,7
+acu,21.333333333333332,0.0,2
+acucena,3.0,0.0,1
+adamantina,11.18918918918919,0.02702702702702703,35
+adhemar de barros,97.0,1.0,1
+adolfo,10.0,0.0,5
+adrianopolis,9.0,0.0,1
+adustina,12.0,0.0,1
+afogados da ingazeira,11.125,0.0,8
+afonso claudio,13.0,0.0,11
+afranio,15.5,0.0,2
+agisse,14.0,0.0,1
+agrestina,14.0,0.0,1
+agrolandia,12.0,0.0,1
+agronomica,18.0,0.0,2
+agua boa,17.0,0.0,18
+agua branca,23.166666666666668,0.0,5
+agua clara,18.5,0.0,2
+agua comprida,7.0,0.0,2
+agua doce,4.0,0.0,1
+agua doce do norte,10.8,0.0,4
+agua fria de goias,17.0,0.0,1
+agua limpa,20.0,0.0,1
+agua nova,19.0,0.0,1
+agua preta,11.0,0.0,1
+agua santa,12.5,0.0,2
+aguai,9.11111111111111,0.05555555555555555,9
+aguas belas,15.75,0.0,6
+aguas claras,37.0,1.0,1
+aguas da prata,6.5,0.0,10
+aguas de lindoia,10.68,0.04,22
+aguas de santa barbara,10.333333333333334,0.0,3
+aguas de sao pedro,15.5,0.0,2
+aguas formosas,11.166666666666666,0.0,5
+aguas frias,11.0,0.0,1
+aguas lindas de goias,12.73076923076923,0.07692307692307693,24
+aguas mornas,17.0,0.0,1
+aguas vermelhas,13.666666666666666,0.0,3
+agudo,10.0,0.0,1
+agudos,11.0,0.058823529411764705,16
+aguia branca,17.0,0.0,1
+aimores,9.3,0.1,10
+aiuaba,10.0,0.0,1
+aiuruoca,10.0,0.0,4
+ajapi,27.0,1.0,1
+ajuricaba,6.5,0.0,2
+alagoa,11.0,0.0,1
+alagoa grande,10.0,0.0,1
+alagoa nova,31.0,0.0,1
+alagoinha,20.5,0.0,2
+alagoinhas,19.41860465116279,0.18604651162790697,40
+alambari,8.0,0.0,3
+alcantara,19.0,0.0,1
+alcinopolis,9.625,0.0,6
+alcobaca,18.0,0.25,4
+alegre,14.5,0.1111111111111111,17
+alegrete,12.975,0.0,35
+alegrete do piaui,26.0,0.0,1
+alegria,10.0,0.0,1
+alem paraiba,12.758620689655173,0.0,28
+alexandra,18.0,0.0,1
+alexandria,12.0,0.0,2
+alexandrita,10.0,0.0,1
+alexania,11.833333333333334,0.0,5
+alfenas,10.547169811320755,0.05660377358490566,43
+alfredo chaves,14.285714285714286,0.0,7
+alfredo marcondes,16.0,0.0,1
+alfredo vasconcelos,7.666666666666667,0.0,3
+alfredo wagner,10.0,0.0,2
+alhandra,23.5,0.0,2
+alianca,20.0,0.0,1
+alianca do tocantins,16.666666666666668,0.0,2
+almas,14.0,0.0,1
+almenara,13.3125,0.0,14
+almino afonso,15.0,0.0,1
+almirante tamandare,13.026315789473685,0.0,35
+almirante tamandare do sul,11.0,0.0,1
+alpercata,7.0,0.0,2
+alpestre,13.0,0.0,1
+alpinopolis,12.0,0.0,7
+alta floresta,19.0,0.0,12
+alta floresta d'oeste,19.0,0.0,3
+altamira,27.333333333333332,0.14814814814814814,25
+altamira do parana,9.5,0.0,2
+altaneira,13.0,0.0,2
+alterosa,13.666666666666666,0.0,3
+altinho,7.0,0.0,1
+altinopolis,9.75,0.0,4
+alto alegre,16.333333333333332,0.0,3
+alto alegre do iguacu,12.666666666666666,0.0,2
+alto alegre do maranhao,9.0,0.0,1
+alto alegre do pindare,12.0,0.0,1
+alto araguaia,24.4,0.2,5
+alto boa vista,18.444444444444443,0.0,5
+alto caparao,17.5,0.0,2
+alto do rodrigues,23.7,0.0,8
+alto garcas,15.5,0.0,2
+alto horizonte,14.666666666666666,0.0,2
+alto jequitiba,8.333333333333334,0.0,3
+alto paraiso,19.0,0.0,2
+alto paraiso de goias,15.037037037037036,0.037037037037037035,9
+alto parana,11.5,0.0,2
+alto parnaiba,22.6,0.0,5
+alto piquiri,7.0,0.0,1
+alto rio doce,14.75,0.0,4
+alto rio novo,13.0,0.0,2
+alto santo,15.333333333333334,0.0,3
+alto sao joao,59.0,1.0,1
+alto taquari,17.666666666666668,0.0,3
+altonia,9.666666666666666,0.0,3
+altos,18.8,0.0,5
+aluminio,12.142857142857142,0.14285714285714285,13
+alvarenga,11.0,0.0,2
+alvares florence,10.333333333333334,0.3333333333333333,2
+alvares machado,8.375,0.0,8
+alvaro de carvalho,8.5,0.0,2
+alvinopolis,8.461538461538462,0.0,11
+alvorada,14.95,0.08333333333333333,56
+alvorada d'oeste,41.0,0.0,1
+alvorada do gurgueia,10.0,0.0,1
+alvorada do norte,14.666666666666666,0.0,3
+amambai,18.125,0.0,6
+amanari,23.0,0.0,1
+amapa do maranhao,16.0,0.0,1
+amapora,11.666666666666666,0.0,2
+amaraji,23.0,0.0,2
+amarante,17.0,0.0,1
+amargosa,21.0,0.0,1
+amelia rodrigues,13.666666666666666,0.0,3
+america dourada,44.0,1.0,1
+americana,7.182879377431907,0.07003891050583658,216
+americano do brasil,14.333333333333334,0.0,3
+americo brasiliense,13.11111111111111,0.16666666666666666,17
+americo de campos,10.0,0.0,1
+ametista do sul,14.5,0.0,2
+amontada,18.0,0.0,1
+amparo,9.19718309859155,0.04225352112676056,63
+amparo da serra,11.0,0.0,1
+ampere,12.875,0.125,8
+anadia,13.5,0.0,2
+anage,19.0,0.0,1
+analandia,9.5,0.25,4
+ananas,13.0,0.0,1
+ananindeua,23.03191489361702,0.18085106382978725,85
+anapolis,15.380952380952381,0.07142857142857142,111
+anastacio,10.0,0.0,2
+anaurilandia,9.0,0.0,1
+anchieta,15.88888888888889,0.05555555555555555,17
+andarai,21.0,0.0,1
+andira,11.428571428571429,0.0,11
+andorinha,16.8,0.0,5
+andradas,11.142857142857142,0.07142857142857142,12
+andradina,9.085106382978724,0.0,40
+andre da rocha,7.0,0.0,1
+andrelandia,19.6,0.2,3
+andrequice,19.0,0.0,1
+angatuba,12.75,0.125,8
+angelica,16.0,0.0,1
+angelina,18.0,0.0,1
+angelo frechiani,10.0,0.0,1
+angical,22.0,0.0,1
+angical do piaui,10.0,0.0,1
+angicos,26.0,0.0,1
+angra dos reis,16.2,0.18095238095238095,83
+anguera,15.0,0.0,1
+angulo,10.0,0.0,3
+angustura,26.0,0.0,1
+anhandui,11.0,0.0,1
+anhembi,29.0,0.0,1
+anhumas,6.0,0.0,1
+anicuns,13.625,0.125,8
+anita garibaldi,17.8,0.0,5
+anitapolis,24.0,0.0,2
+anta,4.333333333333333,0.0,3
+anta gorda,12.25,0.0,4
+antonina,9.9,0.0,10
+antonina do norte,22.0,0.0,1
+antonio cardoso,22.0,0.0,2
+antonio carlos,8.666666666666666,0.0,3
+antonio goncalves,7.0,0.0,1
+antonio martins,20.0,1.0,1
+antonio pereira,21.5,0.5,2
+antonio prado,19.142857142857142,0.0,5
+antonio prado de minas,13.0,0.0,3
+antunes,12.0,0.0,1
+aparecida,10.92,0.08,25
+aparecida d'oeste,8.0,0.0,1
+aparecida de goiania,14.128205128205128,0.09401709401709402,105
+aparecida de monte alto,12.0,0.0,1
+aparecida de sao manuel,8.5,0.0,2
+aparecida do rio negro,20.0,0.0,1
+aparecida do taboado,18.583333333333332,0.08333333333333333,7
+aperibe,13.4,0.13333333333333333,12
+apiaca,6.833333333333333,0.0,6
+apiai,13.625,0.25,6
+apiuna,11.142857142857142,0.0,7
+apodi,40.0,0.6666666666666666,3
+apora,43.0,1.0,1
+apore,11.0,0.0,1
+apuarema,22.0,0.0,1
+apucarana,11.266666666666667,0.05,51
+apuiares,22.0,0.0,2
+aquidaba,25.0,0.0,1
+aquidauana,10.0,0.0,3
+aquiraz,17.0,0.0,1
+aracaju,19.357446808510637,0.14042553191489363,212
+aracariguama,9.875,0.0,8
+aracati,21.043478260869566,0.08695652173913043,21
+aracatu,11.0,0.0,1
+aracatuba,9.648148148148149,0.024691358024691357,138
+arace,32.0,0.5,2
+araci,11.25,0.0,3
+aracitaba,10.0,0.0,2
+aracoiaba,20.8,0.2,5
+aracoiaba da serra,8.75,0.0,11
+aracruz,15.619047619047619,0.11904761904761904,40
+aracuai,12.666666666666666,0.1111111111111111,9
+aragarcas,18.0,0.0,3
+aragoiania,16.0,0.0,1
+araguacu,12.0,0.0,1
+araguaia,8.0,0.0,1
+araguaina,21.63157894736842,0.21052631578947367,38
+araguana,16.0,0.0,1
+araguapaz,19.5,0.0,2
+araguari,10.39655172413793,0.05172413793103448,54
+araguatins,17.6,0.0,5
+aramari,73.0,1.0,2
+arame,24.0,0.0,1
+aramina,25.0,1.0,1
+arandu,8.0,0.0,3
+arantina,8.0,0.0,1
+arapei,10.5,0.0,2
+arapiraca,24.529411764705884,0.23529411764705882,29
+arapoema,9.0,0.0,1
+araponga,10.5,0.0,2
+arapongas,14.307692307692308,0.10256410256410256,32
+arapora,11.166666666666666,0.0,5
+arapoti,12.7,0.0,9
+arapua,6.0,0.0,1
+araputanga,16.0,0.0,4
+araquari,15.857142857142858,0.21428571428571427,11
+arara,17.0,0.0,1
+ararangua,13.3,0.05,18
+araraquara,8.551136363636363,0.06818181818181818,150
+araras,9.442477876106194,0.11504424778761062,93
+arari,18.0,0.0,2
+ararica,13.5,0.0,2
+araripe,30.0,0.0,1
+araripina,18.5,0.0,11
+araruama,16.732558139534884,0.09302325581395349,74
+araruna,16.6,0.0,5
+arataca,14.0,0.0,1
+aratiba,9.0,0.0,1
+aratuba,23.5,0.0,2
+araucaria,11.63076923076923,0.06153846153846154,54
+araujos,14.6,0.0,5
+araxa,13.477777777777778,0.1,75
+arceburgo,13.375,0.0,7
+arcos,13.607142857142858,0.03571428571428571,25
+arcoverde,21.8,0.2,5
+areado,11.666666666666666,0.0,6
+areal,7.875,0.0,7
+arealva,10.75,0.0,3
+areia,28.5,0.5,2
+areia branca,10.0,0.0,3
+areia branca dos assis,32.666666666666664,0.6666666666666666,3
+areial,33.0,0.0,1
+areias,17.333333333333332,0.0,3
+areiopolis,7.333333333333333,0.0,3
+arembepe,29.0,0.3333333333333333,2
+arenapolis,10.0,0.0,2
+arenopolis,12.0,0.0,1
+aribice,13.0,0.0,1
+arinos,12.5,0.0,8
+aripuana,27.5,0.25,8
+ariquemes,25.333333333333332,0.23809523809523808,13
+ariranha,10.8,0.0,5
+armacao dos buzios,25.379310344827587,0.4827586206896552,28
+armazem,6.5,0.0,2
+arneiroz,32.5,0.75,2
+aroeiras,33.0,1.0,1
+arraial d ajuda,11.0,0.0,1
+arraial d'ajuda,19.571428571428573,0.14285714285714285,7
+arraial do cabo,20.07894736842105,0.15789473684210525,28
+arraias,20.0,0.0,2
+arroio do meio,12.7,0.0,9
+arroio do sal,13.222222222222221,0.0,7
+arroio do tigre,16.0,0.0,2
+arroio dos ratos,8.222222222222221,0.0,9
+arroio grande,22.0,0.25,3
+arroio trinta,15.0,0.0,1
+arrozal,17.666666666666668,0.0,3
+artur nogueira,7.229166666666667,0.0,40
+aruana,9.0,0.0,2
+aruja,6.065789473684211,0.013157894736842105,68
+arvoredo,25.0,0.0,1
+arvorezinha,14.75,0.0,4
+ascurra,18.5,0.25,4
+assai,21.833333333333332,0.3333333333333333,5
+assare,12.0,0.0,1
+assis,9.227722772277227,0.009900990099009901,84
+assis chateaubriand,10.0,0.07142857142857142,12
+assuncao,52.0,1.0,1
+astolfo dutra,9.071428571428571,0.07142857142857142,11
+astorga,10.142857142857142,0.0,7
+atalaia,11.0,0.0,1
+atalanta,17.0,0.0,1
+ataleia,19.5,0.0,2
+atibaia,8.561111111111112,0.08888888888888889,154
+atilio vivacqua,24.0,1.0,1
+augustinopolis,18.0,0.0,1
+augusto correa,9.666666666666666,0.0,3
+augusto pestana,12.5,0.0,2
+aurea,10.5,0.0,2
+auriflama,9.636363636363637,0.0,10
+aurilandia,19.0,0.0,1
+aurora,15.666666666666666,0.0,5
+aurora do para,9.0,0.0,1
+avanhandava,8.857142857142858,0.0,7
+avare,11.514285714285714,0.07142857142857142,63
+avelar,19.0,0.25,4
+avelino lopes,18.5,0.0,2
+azurita,29.0,0.6666666666666666,3
+bacabal,18.857142857142858,0.0,11
+bacaxa,26.0,0.0,1
+bacuri,17.666666666666668,0.0,3
+bady bassitt,9.285714285714286,0.0,6
+baependi,13.0,0.0,8
+bage,16.49230769230769,0.12307692307692308,62
+baianopolis,30.0,0.0,2
+baixa grande,14.0,0.0,1
+baixa grande do ribeiro,22.0,0.0,1
+baixo guandu,12.0,0.0,8
+balbinos,6.0,0.0,1
+baldim,9.5,0.0,2
+balneario arroio do silva,19.75,0.0,4
+balneario barra do sul,11.0,0.0,4
+balneario camboriu,13.640350877192983,0.14912280701754385,97
+balneario gaivota,13.333333333333334,0.0,3
+balneario picarras,15.777777777777779,0.1111111111111111,8
+balneario pinhal,12.5,0.0,7
+balneario rincao,22.666666666666668,0.3333333333333333,3
+balsa nova,14.0,0.0,1
+balsamo,6.888888888888889,0.0,6
+balsas,27.45,0.35,17
+bambui,10.105263157894736,0.05263157894736842,18
+banabuiu,22.0,0.0,1
+bananal,7.428571428571429,0.0,5
+bananeiras,16.666666666666668,0.16666666666666666,5
+bandeira,13.0,0.0,3
+bandeira do sul,8.25,0.0,2
+bandeirantes,10.733333333333333,0.0,14
+bandeirantes d'oeste,13.0,0.0,1
+bandeirantes do tocantins,16.0,0.0,2
+banzae,31.0,1.0,1
+barao,7.0,0.0,1
+barao ataliba nogueira,14.0,0.0,1
+barao de cocais,11.473684210526315,0.0,18
+barao de cotegipe,10.5,0.0,2
+barao de juparana,4.0,0.0,1
+barao do triunfo,19.0,0.0,1
+barauna,12.0,0.0,1
+barbacena,11.233333333333333,0.05555555555555555,79
+barbalha,28.0,0.3333333333333333,6
+barbosa ferraz,9.0,0.0,3
+barcarena,25.666666666666668,0.16666666666666666,6
+bariri,10.368421052631579,0.0,15
+barra,25.0,0.5,2
+barra bonita,11.612903225806452,0.03225806451612903,28
+barra da estiva,16.0,0.0,7
+barra de guabiraba,15.0,0.0,2
+barra de santa rosa,18.0,0.0,1
+barra de santo antonio,19.0,0.0,2
+barra de sao francisco,14.333333333333334,0.1111111111111111,9
+barra de sao joao,11.842105263157896,0.05263157894736842,13
+barra de sao miguel,23.5,0.0,2
+barra do bugres,19.25,0.0,4
+barra do choca,11.666666666666666,0.0,3
+barra do corda,15.7,0.0,7
+barra do garcas,13.4,0.0,25
+barra do jacare,6.0,0.0,1
+barra do mendes,23.333333333333332,0.0,3
+barra do pirai,14.6,0.08,49
+barra do ribeiro,12.2,0.0,5
+barra do rio azul,23.0,0.0,1
+barra do tarrachil,18.0,0.3333333333333333,3
+barra do turvo,16.0,0.25,3
+barra dos coqueiros,31.666666666666668,0.6666666666666666,3
+barra longa,11.0,0.0,1
+barra mansa,14.796992481203008,0.17293233082706766,119
+barra velha,16.166666666666668,0.16666666666666666,15
+barracao,16.666666666666668,0.0,3
+barras,28.0,0.6666666666666666,3
+barreira,5.0,0.0,1
+barreiras,18.67241379310345,0.05172413793103448,51
+barreirinhas,15.75,0.0,4
+barreiros,14.4,0.0,5
+barretos,10.23076923076923,0.038461538461538464,69
+barrinha,16.68421052631579,0.15789473684210525,18
+barro,22.75,0.25,4
+barro alto,15.666666666666666,0.0,3
+barro preto,12.0,0.0,1
+barrocas,12.0,0.0,1
+barrolandia,21.5,0.0,2
+barros cassal,18.25,0.0,3
+barroso,9.666666666666666,0.06666666666666667,11
+barueri,7.204690831556503,0.0511727078891258,419
+bastos,8.833333333333334,0.0,17
+bataguassu,13.166666666666666,0.0,5
+bataipora,17.0,0.0,1
+batalha,15.0,0.0,3
+batatais,8.0,0.03333333333333333,27
+bataypora,11.5,0.0,2
+baturite,15.333333333333334,0.0,3
+bauru,8.602076124567475,0.03460207612456748,263
+bayeux,18.8,0.0,7
+bebedouro,10.35,0.05,51
+beberibe,27.666666666666668,0.3333333333333333,3
+bela cruz,17.75,0.0,4
+bela vista,11.0,0.0,3
+bela vista de goias,12.75,0.0,7
+bela vista de minas,7.0,0.0,1
+bela vista do maranhao,35.0,1.0,1
+bela vista do paraiso,12.333333333333334,0.0,3
+belem,20.897058823529413,0.09033613445378151,430
+belem do sao francisco,14.0,0.0,2
+belford roxo,13.736842105263158,0.07894736842105263,104
+belmonte,15.0,0.0,2
+belo campo,19.666666666666668,0.0,3
+belo horizonte,10.64107547781017,0.06284418529316488,2697
+belo jardim,13.916666666666666,0.08333333333333333,11
+belo oriente,8.3,0.0,5
+belo vale,8.333333333333334,0.0,3
+bemposta,11.0,0.0,1
+benedito leite,34.0,0.0,1
+benedito novo,17.22222222222222,0.0,6
+benevides,42.0,0.5,2
+bento de abreu,3.3333333333333335,0.0,2
+bento goncalves,11.540983606557377,0.01639344262295082,53
+bequimao,13.0,0.0,1
+berilo,10.0,0.0,1
+berizal,14.0,0.0,1
+bernardino de campos,11.25,0.25,4
+bertioga,11.211538461538462,0.09615384615384616,47
+bertolinia,20.0,0.0,1
+bertopolis,34.0,1.0,1
+betim,11.87037037037037,0.06018518518518518,196
+bezerros,12.818181818181818,0.0,10
+bias fortes,13.5,0.0,2
+bicas,10.875,0.0,7
+biguacu,16.454545454545453,0.22727272727272727,22
+bilac,9.333333333333334,0.0,7
+birigui,10.147368421052631,0.042105263157894736,78
+biritiba-mirim,5.25,0.0,10
+biritinga,13.0,0.0,1
+bituruna,14.6,0.0,5
+blumenau,12.115942028985508,0.07729468599033816,181
+boa esperanca,13.714285714285714,0.047619047619047616,20
+boa esperanca do iguacu,24.0,0.0,1
+boa esperanca do sul,10.454545454545455,0.09090909090909091,11
+boa ventura,14.0,0.0,1
+boa viagem,27.666666666666668,0.3333333333333333,3
+boa vista,24.772727272727273,0.09090909090909091,39
+boa vista da aparecida,13.0,0.0,4
+boa vista das missoes,9.0,0.0,1
+boa vista do burica,9.0,0.0,1
+boa vista do cadeado,28.0,0.0,1
+boa vista do gurupi,51.5,0.5,2
+boa vista do sul,13.0,0.0,1
+boca da mata,18.5,0.0,2
+bocaina,9.0,0.0,7
+bocaiuva,12.076923076923077,0.0,13
+bocaiuva do sul,10.0,0.0,2
+bodo,21.0,0.0,1
+bodoco,17.5,0.0,2
+bodoquena,13.5,0.0,2
+bofete,12.666666666666666,0.16666666666666666,5
+boituva,9.518518518518519,0.018518518518518517,47
+bom conselho,15.428571428571429,0.0,7
+bom despacho,12.69767441860465,0.0,38
+bom jardim,17.625,0.125,16
+bom jardim de goias,27.0,0.0,1
+bom jardim de minas,13.909090909090908,0.0,8
+bom jesus,14.076923076923077,0.0,13
+bom jesus da lapa,17.636363636363637,0.0,9
+bom jesus da penha,13.0,0.0,2
+bom jesus da serra,21.0,0.0,2
+bom jesus das selvas,16.333333333333332,0.0,2
+bom jesus do amparo,11.0,0.0,1
+bom jesus do araguaia,27.0,0.0,1
+bom jesus do galho,9.5,0.0,4
+bom jesus do itabapoana,16.6,0.12,20
+bom jesus do norte,14.5,0.0,4
+bom jesus do querendo,15.0,0.0,1
+bom jesus do sul,8.0,0.0,1
+bom jesus do tocantins,20.0,0.0,3
+bom jesus dos perdoes,11.11111111111111,0.05555555555555555,17
+bom principio,15.333333333333334,0.16666666666666666,6
+bom repouso,18.5,0.25,4
+bom retiro,10.0,0.0,1
+bom retiro do sul,19.0,0.0,2
+bom sucesso,12.2,0.0,5
+bombinhas,15.333333333333334,0.06666666666666667,15
+bonfim,10.8,0.0,5
+bonfim paulista,9.956521739130435,0.043478260869565216,18
+bonfinopolis,21.5,0.0,2
+bonfinopolis de minas,14.0,0.0,2
+boninal,10.333333333333334,0.0,2
+bonito,19.823529411764707,0.17647058823529413,17
+bonito de minas,26.0,0.0,1
+bonito de santa fe,18.0,0.0,1
+boqueirao do leao,23.5,0.0,2
+boquira,14.0,0.0,1
+bora,16.0,0.0,1
+boraceia,6.0,0.0,1
+borborema,7.625,0.0,8
+borda da mata,10.666666666666666,0.0,6
+borrazopolis,9.333333333333334,0.0,2
+bossoroca,10.0,0.0,1
+botelho,12.0,0.0,1
+botelhos,11.666666666666666,0.0,8
+botucatu,9.464285714285714,0.03571428571428571,100
+botupora,33.0,0.0,1
+botuvera,13.0,0.0,2
+braco do norte,14.708333333333334,0.0,20
+braco do rio,26.5,0.5,2
+braganca,21.0,0.0,9
+braganca paulista,7.125,0.01875,144
+bras pires,10.0,0.0,2
+brasil novo,25.666666666666668,0.0,3
+brasilandia,17.0,0.0,1
+brasilandia de minas,29.0,1.0,1
+brasileia,30.0,0.0,1
+brasilia,12.513028620247757,0.074754378470739,2071
+brasilia de minas,8.3,0.0,9
+brasopolis,14.0,0.0,1
+brauna,10.0,0.2,5
+braunas,6.0,0.0,1
+brazabrantes,15.5,0.0,2
+brazopolis,14.833333333333334,0.0,6
+brejetuba,21.0,0.0,1
+brejo,21.0,0.0,1
+brejo bonito,11.0,0.0,1
+brejo da madre de deus,20.25,0.0,4
+brejo do cruz,20.0,0.0,1
+brejo dos santos,17.0,0.0,1
+brejo grande,17.0,0.0,1
+brejo santo,26.0,0.16666666666666666,10
+brejoes,23.0,0.0,1
+brejolandia,30.0,1.0,1
+breu branco,31.333333333333332,0.3333333333333333,3
+breves,26.0,0.0,1
+britania,12.0,0.0,1
+brodowski,8.307692307692308,0.0,9
+brotas,9.538461538461538,0.0,12
+brotas de macaubas,19.0,0.0,1
+brumadinho,9.484848484848484,0.030303030303030304,26
+brumado,17.857142857142858,0.07142857142857142,21
+brusque,14.19047619047619,0.06349206349206349,60
+bueno brandao,16.75,0.25,4
+buenopolis,15.2,0.0,4
+buenos aires,14.5,0.0,2
+buerarema,31.666666666666668,0.6666666666666666,3
+bugre,21.0,0.0,1
+buique,20.0,0.0,1
+buri,10.0,0.1,10
+buritama,17.583333333333332,0.4166666666666667,9
+buriti,15.0,0.0,1
+buriti alegre,15.0,0.0,1
+buriti do tocantins,26.0,0.0,1
+buriti dos lopes,8.5,0.0,2
+buriticupu,19.2,0.0,4
+buritirama,42.5,1.0,2
+buritis,12.117647058823529,0.0,15
+buritizal,11.0,0.0,2
+buritizeiro,10.538461538461538,0.0,8
+butia,14.333333333333334,0.0,6
+caarapo,12.0,0.0,4
+cabaceiras do paraguacu,19.0,0.0,1
+cabeceira grande,17.666666666666668,0.3333333333333333,3
+cabeceiras,16.0,0.0,1
+cabedelo,15.833333333333334,0.0,6
+cabixi,24.0,0.0,1
+cabo de santo agostinho,15.318181818181818,0.09090909090909091,21
+cabo frio,18.49230769230769,0.26153846153846155,113
+cabo verde,9.666666666666666,0.0,3
+cabralia paulista,11.5,0.0,4
+cabreuva,10.166666666666666,0.16666666666666666,6
+cabrobo,19.666666666666668,0.0,6
+cacador,13.214285714285714,0.047619047619047616,40
+cacapava,9.261904761904763,0.023809523809523808,72
+cacapava do sul,12.142857142857142,0.0,5
+cacaulandia,18.0,0.0,1
+cacequi,12.333333333333334,0.0,3
+caceres,16.677419354838708,0.0967741935483871,25
+cachoeira,17.5,0.0,4
+cachoeira alta,12.142857142857142,0.0,6
+cachoeira da prata,8.666666666666666,0.0,2
+cachoeira de minas,15.833333333333334,0.0,6
+cachoeira de pajeu,13.0,0.0,3
+cachoeira do brumado,27.0,1.0,1
+cachoeira do campo,7.5,0.0,2
+cachoeira do sul,12.363636363636363,0.030303030303030304,30
+cachoeira dourada,9.333333333333334,0.0,3
+cachoeira paulista,7.555555555555555,0.0,25
+cachoeiras de macacu,14.227272727272727,0.09090909090909091,20
+cachoeirinha,13.392857142857142,0.03571428571428571,72
+cachoeiro de itapemirim,13.059259259259258,0.0962962962962963,121
+cacoal,16.307692307692307,0.0,12
+caconde,7.818181818181818,0.0,10
+cacu,16.2,0.0,8
+cacule,38.75,0.75,3
+caem,13.0,0.0,1
+caetanopolis,9.25,0.0,8
+caete,11.714285714285714,0.07142857142857142,27
+caetes,8.0,0.0,1
+caetite,16.6,0.0,10
+cafeara,10.666666666666666,0.0,2
+cafelandia,10.636363636363637,0.0,19
+caiana,12.666666666666666,0.0,3
+caiaponia,11.0,0.0,4
+caibate,7.0,0.0,1
+caibi,12.666666666666666,0.0,3
+caicara do norte,22.0,0.0,1
+caico,17.7,0.1,10
+caieiras,7.207920792079208,0.039603960396039604,97
+cairu,25.0,0.0,1
+caiua,8.0,0.0,2
+cajamar,7.557522123893805,0.05309734513274336,97
+cajapio,20.0,0.0,1
+cajari,8.0,0.0,1
+cajati,10.75,0.0,16
+cajazeiras,20.333333333333332,0.0,11
+cajobi,6.333333333333333,0.0,8
+cajueiro,26.0,0.0,1
+cajuri,13.0,0.0,1
+cajuru,13.333333333333334,0.1111111111111111,9
+calcado,10.0,0.0,1
+caldas,14.333333333333334,0.0,5
+caldas brandao,14.0,0.0,1
+caldas do jorro,25.0,0.0,1
+caldas novas,16.404761904761905,0.11904761904761904,36
+caldeirao grande,15.5,0.0,2
+caldeirao grande do piaui,22.0,0.0,1
+california,10.5,0.0,2
+california da barra,12.625,0.25,6
+calmon,28.0,0.0,1
+camacan,19.428571428571427,0.14285714285714285,6
+camacari,20.81081081081081,0.21621621621621623,60
+camacho,7.0,0.0,1
+camamu,19.375,0.0,8
+camanducaia,14.2,0.0,9
+camapua,16.333333333333332,0.0,6
+camaqua,10.444444444444445,0.0,12
+camaragibe,20.176470588235293,0.11764705882352941,33
+cambara,13.76923076923077,0.0,9
+cambara do sul,4.0,0.0,1
+cambe,13.066666666666666,0.06666666666666667,27
+cambiasca,8.0,0.0,1
+cambira,14.0,0.0,2
+camboriu,13.71875,0.0625,27
+cambuci,21.25,0.25,8
+cambui,14.923076923076923,0.15384615384615385,22
+cambuquira,12.166666666666666,0.0,5
+cameta,23.0,0.0,4
+camocim,24.333333333333332,0.1111111111111111,8
+camocim de sao felix,11.0,0.0,2
+campanario,10.0,0.0,2
+campanha,14.0,0.2222222222222222,7
+campestre,10.666666666666666,0.0,3
+campestre da serra,15.0,0.0,2
+campestre do maranhao,27.5,0.5,2
+campina da lagoa,38.333333333333336,0.3333333333333333,2
+campina das missoes,17.5,0.0,2
+campina do monte alegre,7.5,0.0,2
+campina grande,17.486486486486488,0.0945945945945946,67
+campina grande do sul,12.6,0.0,9
+campina verde,10.5,0.0,10
+campinacu,11.0,0.0,1
+campinapolis,31.333333333333332,0.3333333333333333,3
+campinas,9.231242312423124,0.0984009840098401,1406
+campinas do sul,10.666666666666666,0.0,6
+campinorte,14.375,0.0,7
+campo alegre,19.6,0.2,4
+campo alegre de goias,28.0,0.5,2
+campo alegre de lourdes,17.0,0.0,1
+campo alegre de minas,17.0,0.0,1
+campo alegre do fidalgo,22.0,0.0,1
+campo azul,9.0,0.0,1
+campo belo,10.857142857142858,0.0,21
+campo bom,11.585365853658537,0.024390243902439025,35
+campo do brito,14.0,0.0,1
+campo do meio,14.0,0.0,4
+campo do tenente,37.0,1.0,1
+campo ere,15.125,0.25,7
+campo florido,12.0,0.0,1
+campo formoso,21.09090909090909,0.09090909090909091,10
+campo grande,14.392156862745098,0.11484593837535013,312
+campo grande do piaui,12.0,0.0,1
+campo largo,9.214285714285714,0.0,36
+campo limpo paulista,10.92,0.1,47
+campo magro,18.0,0.0,1
+campo maior,17.25,0.125,7
+campo mourao,12.703125,0.0625,56
+campo novo,15.333333333333334,0.0,2
+campo novo do parecis,16.0,0.0,15
+campo verde,18.9,0.2,10
+campos altos,11.8,0.0,5
+campos belos,15.571428571428571,0.14285714285714285,7
+campos borges,17.333333333333332,0.0,3
+campos de julio,13.166666666666666,0.0,6
+campos do jordao,11.538461538461538,0.07692307692307693,25
+campos dos goytacazes,14.52191235059761,0.1593625498007968,232
+campos gerais,10.25,0.25,4
+campos novos,13.636363636363637,0.0,14
+campos sales,21.2,0.2,4
+campos verdes,12.0,0.0,1
+camutanga,11.666666666666666,0.0,3
+canaa,12.0,0.0,1
+canaa dos carajas,36.55555555555556,0.2222222222222222,9
+cananeia,14.0,0.125,8
+canapi,38.0,0.0,1
+canapolis,16.0,0.0,6
+canarana,21.916666666666668,0.16666666666666666,11
+canavieiras,20.666666666666668,0.0,6
+candeal,22.0,0.0,1
+candeias,14.523809523809524,0.047619047619047616,21
+candeias do jamari,25.0,0.0,1
+candelaria,11.0,0.0,4
+candido de abreu,12.8,0.0,4
+candido godoi,6.0,0.0,1
+candido mendes,37.0,1.0,1
+candido mota,9.0,0.058823529411764705,16
+candido rodrigues,7.5,0.0,4
+candido sales,22.666666666666668,0.0,3
+candiota,17.0,0.0,4
+candoi,9.0,0.0,1
+canela,11.789473684210526,0.0,17
+canelinha,13.0,0.0,4
+cangucu,18.0,0.0,12
+canhotinho,22.5,0.0,2
+caninde,20.333333333333332,0.0,6
+caninde de sao francisco,20.0,0.0,2
+canitar,5.5,0.0,2
+canoas,16.266375545851528,0.10480349344978165,205
+canoinhas,11.928571428571429,0.03571428571428571,27
+cansancao,13.428571428571429,0.0,7
+cantagalo,15.136363636363637,0.09090909090909091,21
+cantanhede,18.0,0.0,1
+canto do buriti,19.0,0.0,1
+canudos,13.0,0.0,1
+capanema,18.3125,0.0,12
+capao bonito,10.818181818181818,0.06060606060606061,28
+capao da canoa,14.777777777777779,0.0,38
+capao da porteira,18.5,0.0,2
+capao do cipo,11.6,0.0,3
+capao do leao,24.0,0.4,4
+caparao,11.0,0.0,1
+capela,28.88888888888889,0.4444444444444444,3
+capela de santana,11.5,0.0,2
+capela do alto,25.666666666666668,0.3333333333333333,3
+capela do alto alegre,24.0,0.0,1
+capela nova,9.0,0.0,1
+capelinha,10.25,0.05,19
+capetinga,10.5,0.0,2
+capim branco,15.0,0.0,2
+capim grosso,17.6,0.0,5
+capinopolis,9.833333333333334,0.0,11
+capinzal,13.666666666666666,0.08333333333333333,10
+capinzal do norte,50.0,1.0,1
+capistrano,12.0,0.0,1
+capitao,9.0,0.0,1
+capitao andrade,11.0,0.0,1
+capitao eneas,10.0,0.0,1
+capitao leonidas marques,11.166666666666666,0.16666666666666666,5
+capitao poco,35.0,0.0,3
+capitolio,11.181818181818182,0.0,5
+capivari,8.424242424242424,0.0,32
+capivari de baixo,18.6,0.0,5
+capivari do sul,23.0,0.0,1
+capoeiras,9.0,0.0,1
+caputira,11.0,0.0,2
+caracol,5.0,0.0,1
+caraguatatuba,10.586538461538462,0.07692307692307693,83
+carai,13.75,0.25,6
+caraiba,16.5,0.0,2
+caraibas,13.0,0.0,1
+carajas,14.75,0.0,4
+carambei,12.25,0.0,3
+carandai,11.615384615384615,0.0,11
+carangola,10.379310344827585,0.034482758620689655,25
+carapebus,16.8,0.2,5
+carapicuiba,7.103825136612022,0.05737704918032787,316
+caratinga,11.070422535211268,0.04225352112676056,62
+caraubas,14.0,0.0,3
+caravelas,14.333333333333334,0.0,3
+carazinho,13.695652173913043,0.0,23
+carbonita,10.0,0.0,4
+cardoso,10.166666666666666,0.0,6
+cardoso moreira,13.0,0.16666666666666666,6
+careacu,10.333333333333334,0.0,2
+cariacica,14.136363636363637,0.09090909090909091,135
+caridade,20.0,0.0,1
+carinhanha,24.0,0.5,2
+carire,16.666666666666668,0.0,3
+cariri do tocantins,22.0,0.0,2
+caririacu,11.0,0.0,2
+carius,30.75,0.25,3
+carlinda,14.0,0.0,2
+carlopolis,10.0,0.0,6
+carlos barbosa,14.0,0.0,19
+carlos chagas,13.0,0.0,2
+carmesia,19.0,0.0,1
+carmo,18.857142857142858,0.21428571428571427,12
+carmo da cachoeira,13.75,0.0,4
+carmo da mata,11.333333333333334,0.0,6
+carmo de minas,10.333333333333334,0.0,3
+carmo do cajuru,10.916666666666666,0.0,10
+carmo do paranaiba,14.833333333333334,0.0,16
+carmo do rio claro,9.6875,0.0,9
+carmo do rio verde,13.0,0.0,2
+carmolandia,20.0,0.0,1
+carmopolis,28.5,0.5,2
+carmopolis de minas,10.666666666666666,0.0,5
+carnaiba do sertao,21.0,0.0,1
+carnauba dos dantas,17.0,0.0,1
+carnaubais,14.5,0.0,2
+carnaubal,26.5,0.0,2
+carneirinho,7.666666666666667,0.0,3
+carolina,23.0,0.0,2
+carpina,24.7,0.2,10
+carrancas,12.0,0.0,3
+caruaru,16.325,0.075,63
+carutapera,16.0,0.0,2
+carvalhopolis,18.0,0.3333333333333333,3
+casa branca,9.692307692307692,0.07692307692307693,13
+casa nova,17.333333333333332,0.0,6
+casca,14.0,0.0,7
+cascalho rico,19.0,0.0,1
+cascavel,11.054945054945055,0.07142857142857142,151
+caseiros,16.0,0.0,1
+casimiro de abreu,13.090909090909092,0.09090909090909091,20
+cassia,7.666666666666667,0.0,6
+cassia dos coqueiros,11.0,0.0,1
+cassilandia,11.75,0.125,5
+castanhal,19.76,0.08,21
+castanheira,19.0,0.0,3
+castanheiras,20.0,0.0,1
+castelandia,13.6,0.0,5
+castelo,18.5,0.16666666666666666,18
+castelo do piaui,16.25,0.0,2
+castilho,8.25,0.0,10
+castro,11.133333333333333,0.03333333333333333,22
+castro alves,16.5,0.0,2
+cataguases,10.942857142857143,0.0,32
+catalao,17.536585365853657,0.0975609756097561,33
+catanduva,8.30379746835443,0.02531645569620253,72
+catanduvas,12.666666666666666,0.0,6
+catarina,11.333333333333334,0.0,3
+catas altas,13.4,0.0,5
+catende,19.0,0.14285714285714285,7
+catigua,9.333333333333334,0.0,6
+catole do rocha,17.0,0.0,6
+catu,23.636363636363637,0.45454545454545453,10
+catu de abrantes,23.333333333333332,0.3333333333333333,2
+catuipe,15.6,0.2,4
+caturama,18.0,0.0,1
+caucaia,22.243243243243242,0.13513513513513514,35
+cavalcante,15.0,0.0,2
+caxambu,13.5625,0.0625,16
+caxambu do sul,17.0,0.0,1
+caxias,19.6875,0.125,16
+caxias do sul,15.394308943089431,0.08130081300813008,220
+caxingo,35.0,0.0,1
+ceara-mirim,10.0,0.0,2
+cedral,15.88888888888889,0.1111111111111111,9
+cedro,12.0,0.0,1
+cedro de sao joao,25.0,0.3333333333333333,3
+cedro do abaete,7.0,0.0,1
+ceilandia,17.0,0.0,1
+celina,22.0,0.0,2
+celso ramos,20.76923076923077,0.0,2
+centenario,20.0,0.0,1
+centenario do sul,17.5,0.0,4
+central,46.0,1.0,1
+central de santa helena,9.0,0.0,1
+centralina,14.0,0.0,1
+centro novo do maranhao,26.0,0.0,1
+cerejeiras,11.0,0.0,1
+ceres,12.285714285714286,0.0,7
+cerqueira cesar,11.80952380952381,0.14285714285714285,18
+cerquilho,10.088235294117647,0.058823529411764705,29
+cerrito,13.0,0.0,1
+cerro azul,12.25,0.0,4
+cerro grande,12.0,0.0,1
+cerro grande do sul,8.5,0.0,2
+cerro largo,10.909090909090908,0.09090909090909091,7
+cerro negro,22.0,0.0,1
+cesario lange,7.846153846153846,0.0,13
+ceu azul,14.428571428571429,0.14285714285714285,7
+cezarina,10.0,0.0,1
+cha de alegria,24.0,0.0,1
+cha grande,8.0,0.0,1
+chacara,15.5,0.0,2
+chale,14.0,0.0,2
+chapada,23.75,0.25,4
+chapada do norte,33.0,0.5,2
+chapada dos guimaraes,21.5,0.25,4
+chapada gaucha,19.5,0.25,4
+chapadao do ceu,14.333333333333334,0.0,8
+chapadao do lageado,17.0,0.0,1
+chapadao do sul,20.5625,0.3125,14
+chapadinha,9.25,0.0,3
+chapeco,15.653225806451612,0.16129032258064516,101
+charqueada,15.1,0.2,10
+charqueadas,14.38888888888889,0.0,17
+charrua,13.0,0.0,1
+chaval,15.0,0.0,1
+chavantes,9.25,0.0,12
+chaveslandia,29.0,0.5,2
+chiapetta,9.0,0.0,1
+chopinzinho,13.0,0.0,4
+chorozinho,14.0,0.0,1
+chorrocho,23.0,0.0,1
+chui,12.2,0.0,5
+cianorte,11.772727272727273,0.045454545454545456,39
+cicero dantas,31.727272727272727,0.09090909090909091,9
+cidade gaucha,13.75,0.125,5
+cidade ocidental,12.666666666666666,0.1111111111111111,8
+cidelandia,23.0,0.0,1
+cidreira,14.4,0.0,5
+cipo,25.0,0.0,1
+cipo-guacu,9.0,0.0,1
+ciriaco,18.0,0.0,1
+claraval,8.0,0.0,1
+claro dos pocoes,6.0,0.0,1
+claudia,20.666666666666668,0.0,4
+claudio,12.952380952380953,0.047619047619047616,20
+clementina,10.25,0.0,4
+clevelandia,13.2,0.0,3
+coaraci,22.75,0.25,4
+coari,21.0,0.0,1
+cocais,17.0,0.0,1
+cocal,14.714285714285714,0.14285714285714285,7
+cocal do sul,10.75,0.0,4
+cocalinho,16.5,0.0,4
+cocalzinho de goias,7.0,0.0,1
+cocos,32.0,0.0,1
+codo,26.1,0.0,7
+coelho neto,20.666666666666668,0.0,3
+coimbra,15.0,0.0,1
+coite do noia,11.0,0.0,1
+colatina,12.417721518987342,0.0759493670886076,63
+colider,23.1,0.1,8
+colina,10.444444444444445,0.0,9
+colinas,22.4,0.2,4
+colinas do tocantins,19.0,0.0,3
+colmeia,16.5,0.0,2
+colniza,19.666666666666668,0.0,3
+colombia,10.8,0.0,5
+colombo,11.986486486486486,0.04054054054054054,60
+colonia castrolanda,8.875,0.0,3
+colonia jordaozinho,13.8,0.0,2
+colonia leopoldina,14.333333333333334,0.0,2
+colonia vitoria,18.666666666666668,0.16666666666666666,5
+colorado,11.2,0.0,9
+colorado do oeste,14.0,0.0,3
+coluna,11.0,0.0,3
+combinado,10.0,0.0,1
+comendador levy gasparian,10.25,0.0,7
+comercinho,15.0,0.0,1
+comodoro,18.5,0.0,7
+conceicao,20.0,0.0,2
+conceicao da aparecida,9.2,0.0,5
+conceicao da barra,17.666666666666668,0.3333333333333333,3
+conceicao da feira,41.0,0.3333333333333333,2
+conceicao da ibitipoca,40.0,1.0,1
+conceicao das alagoas,6.666666666666667,0.0,3
+conceicao das pedras,11.6,0.0,4
+conceicao de macabu,17.53846153846154,0.07692307692307693,12
+conceicao do almeida,21.0,0.0,1
+conceicao do araguaia,21.142857142857142,0.14285714285714285,7
+conceicao do caninde,15.0,0.0,1
+conceicao do castelo,10.4,0.0,5
+conceicao do coite,20.0,0.1,9
+conceicao do formoso,9.0,0.0,1
+conceicao do jacuipe,24.0,0.6666666666666666,3
+conceicao do mato dentro,11.533333333333333,0.0,12
+conceicao do para,9.333333333333334,0.0,3
+conceicao do rio verde,11.0,0.0,5
+conceicao do tocantins,21.0,0.3333333333333333,3
+conceicao dos ouros,11.25,0.0,4
+conchal,10.571428571428571,0.047619047619047616,19
+conchas,9.0,0.125,8
+concordia,15.901639344262295,0.16393442622950818,47
+concordia do para,25.333333333333332,0.3333333333333333,3
+condado,13.25,0.0,4
+conde,37.5,1.0,2
+condeuba,18.0,0.0,1
+condor,10.8,0.0,4
+confins,19.0,0.0,1
+confresa,17.285714285714285,0.0,7
+congonhal,11.5,0.0,4
+congonhas,13.314285714285715,0.05714285714285714,30
+congonhinhas,15.0,0.0,2
+conquista,11.833333333333334,0.0,6
+conquista d'oeste,31.0,0.0,1
+conrado,9.0,0.0,1
+conselheiro lafaiete,12.94047619047619,0.09523809523809523,82
+conselheiro mairinck,6.0,0.0,1
+conselheiro pena,10.88888888888889,0.0,15
+conservatoria,29.142857142857142,0.5714285714285714,4
+constantina,12.0,0.0,1
+contagem,10.735849056603774,0.0649895178197065,416
+contenda,3.0,0.0,1
+coqueiro baixo,15.5,0.0,2
+coqueiros do sul,10.0,0.0,1
+coracao de jesus,9.333333333333334,0.0,3
+coracao de maria,16.0,0.0,1
+corbelia,12.666666666666666,0.0,3
+cordeiro,11.32,0.04,24
+cordeiropolis,7.95,0.0,15
+cordeiros,16.0,0.0,1
+coreau,21.0,0.0,1
+coremas,17.333333333333332,0.3333333333333333,3
+corguinho,16.0,0.0,2
+coribe,18.0,0.0,8
+corinto,9.454545454545455,0.0,11
+cornelio procopio,11.56,0.0,24
+coroaci,11.5,0.0,2
+coroados,11.5,0.0,2
+coroata,17.6,0.1,9
+coromandel,14.433333333333334,0.13333333333333333,25
+coronel domingos soares,29.0,0.0,1
+coronel fabriciano,9.785714285714286,0.0,40
+coronel freitas,7.0,0.0,1
+coronel joao pessoa,14.0,0.0,1
+coronel joao sa,17.333333333333332,0.0,3
+coronel macedo,7.0,0.0,2
+coronel martins,15.0,0.0,2
+coronel murta,15.0,0.0,1
+coronel pacheco,14.0,0.0,1
+coronel sapucaia,15.0,0.0,1
+coronel vivida,13.166666666666666,0.08333333333333333,11
+corrego danta,6.0,0.0,1
+corrego do ouro,17.0,0.0,1
+corrego fundo,24.0,1.0,1
+correia pinto,15.916666666666666,0.08333333333333333,11
+corrente,29.666666666666668,0.6666666666666666,4
+correntes,15.0,0.0,1
+correntina,16.0,0.0,2
+cortes,19.5,0.0,2
+corumba,16.794117647058822,0.20588235294117646,27
+corumba de goias,10.0,0.0,2
+corumbaiba,10.0,0.0,4
+corumbatai,7.5,0.0,2
+corumbatai do sul,12.0,0.0,1
+corupa,13.5,0.0,4
+coruripe,21.0,0.0,3
+cosmopolis,9.189655172413794,0.017241379310344827,50
+cosmorama,9.5,0.0,6
+costa marques,23.0,0.0,2
+costa rica,17.928571428571427,0.21428571428571427,12
+cotegipe,32.0,0.0,1
+cotia,6.760299625468165,0.026217228464419477,242
+cotipora,21.0,0.0,1
+cotriguacu,21.0,0.0,2
+couto de magalhaes,15.0,0.5,2
+coxilha,22.5,0.5,2
+coxim,17.692307692307693,0.23076923076923078,11
+crateus,16.77777777777778,0.0,9
+crato,16.526315789473685,0.0,18
+cravinhos,8.333333333333334,0.03333333333333333,24
+cravolandia,20.0,0.0,1
+criciuma,14.848214285714286,0.14285714285714285,91
+crisolita,14.0,0.0,2
+crisopolis,17.666666666666668,0.0,3
+crissiumal,10.5,0.0,2
+cristais,10.5,0.0,3
+cristais paulista,10.75,0.0,4
+cristal,20.0,0.0,3
+cristalandia,18.333333333333332,0.0,3
+cristalia,14.333333333333334,0.0,3
+cristalina,19.125,0.125,8
+cristiano otoni,13.5,0.0,2
+cristina,20.375,0.375,7
+cristinapolis,19.0,0.0,1
+cristopolis,13.5,0.0,2
+crixas,17.666666666666668,0.1111111111111111,8
+croata,19.0,0.0,1
+crominia,9.0,0.0,1
+crucilandia,8.0,0.0,1
+cruz,21.375,0.125,7
+cruz alta,11.28125,0.0,30
+cruz das almas,17.45,0.05,18
+cruz machado,8.333333333333334,0.0,3
+cruzalia,11.75,0.0,3
+cruzeiro,9.882352941176471,0.04411764705882353,56
+cruzeiro da fortaleza,9.5,0.0,2
+cruzeiro do iguacu,10.0,0.0,1
+cruzeiro do oeste,6.875,0.0,7
+cruzeiro do sul,19.166666666666668,0.0,6
+cruzilia,10.25,0.0,4
+cubatao,9.494252873563218,0.10344827586206896,79
+cubati,31.5,0.5,2
+cuiaba,17.589041095890412,0.08561643835616438,243
+cuite,14.333333333333334,0.0,3
+cuite velho,17.0,0.0,1
+cujubim,14.0,0.0,1
+cumari,8.0,0.0,2
+cumaru,24.5,0.5,2
+cunha,10.875,0.0,14
+cunha pora,16.2,0.2,5
+cupira,32.0,0.0,1
+curaca,36.0,0.6666666666666666,3
+curitiba,9.930515344528084,0.04863925883034163,1489
+curitibanos,14.36,0.08,20
+curiuva,9.75,0.0,4
+currais novos,21.285714285714285,0.14285714285714285,6
+curral de cima,17.0,0.0,1
+curralinho,17.0,0.0,1
+curuca,18.666666666666668,0.0,3
+cururupu,25.333333333333332,0.0,3
+curvelandia,22.0,0.0,1
+curvelo,13.183673469387756,0.061224489795918366,42
+custodia,9.833333333333334,0.0,5
+damianopolis,13.0,0.0,2
+dario meira,15.0,0.0,2
+datas,10.0,0.0,1
+david canabarro,15.0,0.0,2
+delfim moreira,4.0,0.0,1
+delfinopolis,12.8,0.0,3
+delmiro gouveia,19.666666666666668,0.0,4
+demerval lobao,14.0,0.0,1
+denise,13.0,0.0,2
+deodapolis,21.0,0.5,2
+deputado irapuan pinheiro,20.5,0.0,2
+descalvado,8.642857142857142,0.0,13
+descoberto,10.333333333333334,0.0,3
+desembargador otoni,32.0,1.0,1
+desterro,32.0,0.0,1
+desterro de entre rios,8.0,0.0,1
+desterro do melo,7.0,0.0,1
+dezesseis de novembro,17.0,0.0,1
+diadema,8.301242236024844,0.09006211180124224,276
+diamante d'oeste,17.0,0.0,1
+diamante do norte,10.833333333333334,0.0,5
+diamantina,10.620689655172415,0.0,27
+diamantino,13.142857142857142,0.0,7
+dianopolis,20.666666666666668,0.1111111111111111,7
+dias d avila,18.0,0.0,1
+dias d'avila,13.6,0.0,23
+diogo de vasconcelos,24.333333333333332,0.6666666666666666,2
+dionisio,7.0,0.0,2
+dionisio cerqueira,18.333333333333332,0.0,3
+diorama,14.0,0.0,2
+divinesia,8.0,0.0,1
+divino,11.285714285714286,0.0,13
+divino das laranjeiras,4.0,0.0,1
+divino de sao lourenco,16.0,0.0,1
+divinolandia,11.428571428571429,0.14285714285714285,7
+divinolandia de minas,9.2,0.0,5
+divinopolis,10.677018633540373,0.012422360248447204,132
+divinopolis de goias,15.0,0.0,1
+divinopolis do tocantins,15.0,0.0,1
+divisa alegre,12.5,0.0,2
+divisa nova,20.0,0.0,1
+dobrada,7.0,0.0,2
+doce grande,28.0,1.0,1
+dois corregos,7.916666666666667,0.0,11
+dois irmaos,11.68421052631579,0.10526315789473684,17
+dois irmaos do buriti,10.666666666666666,0.0,3
+dois riachos,33.0,0.0,1
+dois vizinhos,13.866666666666667,0.06666666666666667,27
+dom aquino,15.0,0.0,3
+dom basilio,15.25,0.25,3
+dom cavati,9.0,0.0,1
+dom eliseu,17.0,0.0,5
+dom feliciano,13.428571428571429,0.0,5
+dom joaquim,10.0,0.0,1
+dom macedo costa,35.0,1.0,1
+dom pedrito,14.636363636363637,0.09090909090909091,10
+dom pedro,19.0,0.4,3
+dom silverio,14.0,0.0,4
+dom vicoso,8.5,0.0,2
+domiciano ribeiro,22.0,0.0,2
+domingos martins,15.555555555555555,0.1111111111111111,9
+dona emma,26.0,0.0,1
+dona euzebia,9.5,0.0,2
+dona francisca,14.0,0.0,2
+dores de campos,12.875,0.0,8
+dores do indaia,11.222222222222221,0.0,7
+dores do rio preto,17.2,0.2,4
+dormentes,18.0,0.0,2
+douradina,6.0,0.0,1
+dourado,10.363636363636363,0.09090909090909091,9
+dourados,15.602739726027398,0.1232876712328767,63
+doutor camargo,10.0,0.0,1
+doutor ulysses,7.0,0.0,1
+doverlandia,14.0,0.0,2
+dracena,10.394736842105264,0.10526315789473684,27
+duartina,6.25,0.0,10
+duas barras,47.0,1.0,1
+duere,14.0,0.0,1
+dumont,7.666666666666667,0.3333333333333333,3
+duque de caxias,14.439446366782008,0.11418685121107267,250
+durande,7.5,0.0,2
+echapora,8.666666666666666,0.0,2
+ecoporanga,11.75,0.0,8
+edeia,21.0,0.25,4
+eldorado,12.0,0.0,6
+eldorado do sul,12.866666666666667,0.0,15
+elias fausto,11.333333333333334,0.16666666666666666,5
+eliseu martins,10.666666666666666,0.0,3
+elisiario,8.0,0.0,1
+elisio medrado,8.0,0.0,2
+eloi mendes,13.090909090909092,0.18181818181818182,10
+embauba,4.0,0.0,1
+embu,10.266666666666667,0.0,11
+embu das artes,7.648809523809524,0.07142857142857142,156
+embu-guacu,7.385964912280702,0.0,46
+emilianopolis,13.5,0.0,2
+encantado,13.583333333333334,0.0,11
+encruzilhada do sul,12.25,0.0,8
+eneas marques,21.4,0.0,4
+engenheiro balduino,9.0,0.0,1
+engenheiro coelho,9.916666666666666,0.08333333333333333,12
+engenheiro navarro,10.0,0.0,1
+engenheiro passos,6.5,0.0,2
+engenheiro paulo de frontin,22.0,0.42857142857142855,6
+entre folhas,10.0,0.0,1
+entre rios,12.5,0.0,6
+entre rios de minas,11.857142857142858,0.0,7
+entre rios do oeste,14.666666666666666,0.0,3
+entre-ijuis,9.25,0.0,3
+epitaciolandia,12.0,0.0,1
+erebango,16.0,0.0,1
+erechim,15.344262295081966,0.04918032786885246,56
+erere,7.0,0.0,1
+erico cardoso,14.0,0.0,1
+erval grande,14.0,0.0,2
+ervalia,10.571428571428571,0.0,7
+escada,24.727272727272727,0.18181818181818182,10
+esmeralda,14.0,0.0,1
+esmeraldas,9.5,0.0,14
+espera feliz,10.473684210526315,0.0,19
+esperanca,20.0,0.16666666666666666,6
+esperantina,16.8,0.0,5
+esperantinopolis,23.666666666666668,0.0,3
+espigao,8.0,0.0,2
+espigao alto do iguacu,15.5,0.0,2
+espigao do oeste,14.666666666666666,0.0,6
+espinosa,9.25,0.0,6
+espirito santo do pinhal,8.894736842105264,0.0,18
+espirito santo do turvo,7.0,0.0,2
+esplanada,11.6,0.0,5
+espumoso,17.666666666666668,0.2222222222222222,7
+estacao,10.6,0.0,5
+estancia,20.666666666666668,0.16666666666666666,9
+estancia velha,11.464285714285714,0.0,20
+esteio,17.431818181818183,0.13636363636363635,39
+estevao de araujo,13.0,0.0,1
+estiva,10.0,0.0,1
+estiva gerbi,7.857142857142857,0.0,7
+estreito,16.333333333333332,0.0,3
+estrela,9.666666666666666,0.0,15
+estrela d oeste,15.0,0.0,1
+estrela d'oeste,8.0,0.0,1
+estrela do indaia,9.5,0.0,2
+estrela do norte,6.0,0.0,3
+estrela do sul,14.0,0.0,1
+estrela velha,18.0,0.0,1
+euclides da cunha,21.2,0.0,5
+euclides da cunha paulista,9.5,0.0,2
+eugenio de castro,14.0,0.0,1
+eugenopolis,13.0,0.0,5
+eunapolis,15.225,0.05,36
+eusebio,17.285714285714285,0.0,13
+ewbank da camara,15.0,0.0,1
+extrema,11.688888888888888,0.022222222222222223,42
+extremoz,29.5,0.5,2
+fagundes,13.0,0.0,1
+farol,12.0,0.0,1
+farroupilha,11.37037037037037,0.0,27
+fartura,13.416666666666666,0.3333333333333333,10
+fatima,9.75,0.0,3
+fatima do sul,13.0,0.0,4
+faxinal,11.88888888888889,0.1111111111111111,9
+faxinal dos guedes,16.4375,0.125,11
+faxinalzinho,9.0,0.0,1
+fazenda nova,12.75,0.0,4
+fazenda rio grande,11.633333333333333,0.0,29
+fazenda vilanova,8.5,0.0,2
+feira de santana,15.82901554404145,0.06735751295336788,181
+feira nova,22.166666666666668,0.0,5
+felicio dos santos,54.0,1.0,1
+felipe guerra,15.0,0.0,1
+felisburgo,13.0,0.0,1
+felixlandia,10.0,0.0,1
+feliz,14.933333333333334,0.06666666666666667,14
+feliz deserto,21.0,0.0,2
+feliz natal,12.0,0.0,1
+fenix,12.0,0.0,1
+fernando prestes,6.857142857142857,0.0,6
+fernandopolis,9.052631578947368,0.017543859649122806,52
+fernao,9.0,0.0,1
+ferraz de vasconcelos,7.712,0.096,109
+ferreiros,9.0,0.0,1
+ferros,8.5,0.0,2
+fervedouro,10.9,0.0,8
+figueira,18.0,0.0,4
+figueiropolis d'oeste,12.5,0.0,2
+filadelfia,15.0,0.0,1
+firminopolis,11.714285714285714,0.0,7
+flor da serra do sul,10.0,0.0,2
+flora rica,9.0,0.0,1
+florai,14.0,0.0,2
+florania,14.0,0.0,1
+floreal,12.5,0.0,2
+flores,23.0,0.0,2
+flores da cunha,9.071428571428571,0.0,12
+flores de goias,7.0,0.0,1
+floresta,18.0,0.16666666666666666,11
+floresta do araguaia,28.0,0.0,1
+florestal,7.666666666666667,0.0,3
+florestopolis,8.5,0.0,3
+floriano,21.11111111111111,0.2222222222222222,18
+florianopolis,14.447692307692307,0.12,557
+florida,11.0,0.0,1
+florida paulista,8.75,0.0,4
+florinia,10.0,0.0,1
+fonseca,11.0,0.0,1
+fontoura xavier,8.0,0.0,1
+formiga,9.617647058823529,0.029411764705882353,32
+formigueiro,9.0,0.0,2
+formosa,12.394736842105264,0.02631578947368421,33
+formosa da serra negra,42.0,1.0,1
+formosa do oeste,14.0,0.0,1
+formosa do rio preto,50.857142857142854,0.7142857142857143,3
+formoso,11.0,0.0,3
+formoso do araguaia,21.0,0.25,4
+forquilha,18.75,0.0,4
+forquilhinha,14.823529411764707,0.17647058823529413,13
+fortaleza,19.59971098265896,0.1791907514450867,616
+fortaleza dos valos,15.0,0.0,1
+fortim,30.0,0.0,1
+fortuna,23.333333333333332,0.6666666666666666,3
+foz do iguacu,13.309278350515465,0.061855670103092786,86
+foz do jordao,21.0,0.0,1
+fragosos,23.0,1.0,1
+fraiburgo,13.846153846153847,0.07692307692307693,13
+franca,9.59375,0.052083333333333336,154
+francisco badaro,10.5,0.0,3
+francisco beltrao,9.894736842105264,0.017543859649122806,50
+francisco dantas,15.0,0.0,1
+francisco dumont,9.0,0.0,2
+francisco morato,8.18095238095238,0.0380952380952381,94
+francisco sa,15.333333333333334,0.0,3
+francisco santos,20.0,0.0,1
+franco da rocha,6.815789473684211,0.008771929824561403,108
+frecheirinha,24.0,0.5,2
+frederico westphalen,17.2,0.06666666666666667,14
+frei gaspar,4.0,0.0,1
+frei inocencio,9.0,0.0,5
+frei lagonegro,10.0,0.0,1
+frei martinho,20.0,0.0,2
+frei rogerio,11.0,0.0,1
+fronteira,10.571428571428571,0.14285714285714285,6
+fronteiras,18.666666666666668,0.0,3
+fruta de leite,16.5,0.0,2
+frutal,8.642857142857142,0.0,24
+frutuoso gomes,21.0,0.0,1
+fundao,8.75,0.0,4
+gabriel monteiro,7.0,0.0,1
+galia,26.0,0.0,1
+galinhos,41.0,0.0,1
+galvao,13.0,0.0,1
+gameleira,30.25,0.25,4
+gameleiras,8.666666666666666,0.0,3
+gandu,18.5,0.0,4
+garanhuns,16.36111111111111,0.027777777777777776,30
+garca,9.53125,0.0,27
+garibaldi,10.2,0.0,9
+garopaba,14.9,0.03333333333333333,22
+garrafao do norte,30.666666666666668,0.0,3
+garruchos,15.0,0.0,1
+garuva,10.4,0.0,5
+gaspar,13.073170731707316,0.024390243902439025,29
+gastao vidigal,7.0,0.0,3
+gaucha do norte,15.333333333333334,0.0,2
+gaurama,9.75,0.0,3
+gaviao peixoto,12.5,0.0,2
+general camara,22.0,0.0,1
+general carneiro,19.8,0.2,5
+general maynard,13.0,0.0,1
+general salgado,10.166666666666666,0.16666666666666666,6
+gentio do ouro,24.0,0.0,1
+getulina,13.5,0.0,2
+getulio vargas,16.0,0.125,8
+gilbues,38.0,1.0,1
+girau do ponciano,14.0,0.0,1
+girua,17.0,0.09090909090909091,10
+glaura,58.0,1.0,1
+glicerio,20.5,0.75,4
+gloria de dourados,20.0,0.0,1
+gloria do goita,11.5,0.0,2
+glorinha,6.5,0.0,2
+godoy moreira,12.0,0.0,1
+goiabeira,15.5,0.0,2
+goiana,15.5,0.0,12
+goianapolis,12.5,0.0,4
+goiandira,7.0,0.0,1
+goianesia,15.909090909090908,0.13636363636363635,17
+goianesia do para,15.333333333333334,0.0,3
+goiania,14.716836734693878,0.10714285714285714,660
+goianinha,13.75,0.0,3
+goianira,19.88888888888889,0.3333333333333333,8
+goianorte,16.0,0.0,2
+goias,14.0,0.0,8
+goiatuba,16.272727272727273,0.09090909090909091,10
+goioere,10.833333333333334,0.0,11
+goitacazes,13.909090909090908,0.18181818181818182,11
+goncalves,12.0,0.0,3
+goncalves dias,48.0,1.0,1
+gongogi,13.0,0.0,1
+gouveia,23.0,0.2,4
+governador celso ramos,28.333333333333332,0.0,3
+governador dix-sept rosado,21.0,0.0,1
+governador eugenio barros,19.0,0.0,1
+governador lindenberg,10.0,0.0,2
+governador mangabeira,20.0,0.0,1
+governador portela,9.25,0.0,4
+governador valadares,11.17687074829932,0.034013605442176874,134
+graccho cardoso,21.0,0.0,1
+grajau,18.0,0.0,5
+gramado,12.935483870967742,0.0,29
+gramado dos loureiros,11.0,0.0,1
+gramado xavier,8.0,0.0,1
+grandes rios,15.0,0.0,2
+granja,29.0,0.2,5
+grao mogol,17.666666666666668,0.3333333333333333,3
+grao para,15.333333333333334,0.0,3
+gravata,22.923076923076923,0.07692307692307693,10
+gravatai,13.991525423728813,0.025423728813559324,111
+gravatal,7.833333333333333,0.0,6
+groairas,17.0,0.0,1
+grupiara,21.0,0.0,1
+guabiju,18.0,0.0,1
+guabiruba,18.6,0.2,5
+guacui,15.722222222222221,0.0,16
+guadalupe,12.4,0.0,4
+guaiba,12.783783783783784,0.08108108108108109,31
+guaicara,8.88888888888889,0.0,8
+guaira,9.557692307692308,0.07692307692307693,43
+guairaca,8.0,0.0,1
+guaiuba,18.5,0.0,2
+guajara-mirim,13.666666666666666,0.0,3
+guamare,17.0,0.0,2
+guamiranga,8.0,0.0,1
+guanambi,19.487179487179485,0.20512820512820512,36
+guanhaes,11.368421052631579,0.05263157894736842,18
+guape,19.0,0.0,1
+guapiacu,9.833333333333334,0.0,6
+guapiara,5.0,0.0,3
+guapimirim,13.227272727272727,0.09090909090909091,21
+guapirama,9.0,0.0,1
+guapo,12.666666666666666,0.0,6
+guapore,13.607142857142858,0.03571428571428571,18
+guara,9.333333333333334,0.0,9
+guarabira,25.272727272727273,0.2727272727272727,10
+guaracai,11.142857142857142,0.0,5
+guaraci,10.0,0.0,4
+guaraciaba,7.0,0.0,3
+guaraciaba do norte,16.25,0.0,4
+guarai,15.166666666666666,0.0,4
+guaramirim,11.5,0.0,13
+guaranesia,14.2,0.0,9
+guarani,16.0,0.14285714285714285,7
+guarani das missoes,8.5,0.0,2
+guaraniacu,11.6,0.0,5
+guaranta,12.6,0.0,5
+guaranta do norte,13.8,0.0,5
+guarapari,14.479452054794521,0.136986301369863,66
+guarapua,5.0,0.0,1
+guarapuava,11.95945945945946,0.05405405405405406,62
+guaraquecaba,9.0,0.0,1
+guarara,11.0,0.0,2
+guararapes,12.285714285714286,0.047619047619047616,18
+guararema,8.727272727272727,0.0,11
+guaratinga,15.0,0.0,2
+guaratingueta,11.17142857142857,0.06666666666666667,96
+guaratuba,10.0,0.0,9
+guarda-mor,7.5,0.0,2
+guarei,8.6,0.0,5
+guariba,12.357142857142858,0.14285714285714285,14
+guariroba,7.5,0.0,2
+guaruja,7.892430278884462,0.055776892430278883,217
+guaruja do sul,17.5,0.25,4
+guarulhos,7.60092807424594,0.06109822119102862,1143
+guassusse,11.0,0.0,1
+guatapara,9.0,0.0,1
+guaxupe,12.073170731707316,0.12195121951219512,37
+guia lopes da laguna,11.0,0.0,1
+guidoval,18.5,0.5,2
+guimaraes,17.0,0.0,1
+guimarania,10.5,0.0,4
+guinda,28.0,1.0,1
+guiricema,11.0,0.0,1
+gurupi,13.518518518518519,0.0,24
+guzolandia,10.0,0.0,1
+heliopolis,17.0,0.0,1
+herculandia,8.666666666666666,0.0,3
+herval,6.0,0.0,1
+herval d'oeste,12.142857142857142,0.0,9
+herveiras,8.0,0.0,1
+hidreletrica tucurui,20.25,0.0,3
+hidrolandia,15.0,0.0,8
+hidrolina,26.5,0.5,2
+holambra,7.346153846153846,0.0,23
+holambra ii,16.0,0.3333333333333333,5
+horizonte,27.6,0.2,5
+horizontina,13.75,0.0,7
+hortolandia,11.807692307692308,0.1987179487179487,142
+hulha negra,29.0,0.0,1
+humaita,17.75,0.0,4
+humberto de campos,19.0,0.0,1
+humildes,71.0,1.0,1
+iacanga,10.571428571428571,0.0,6
+iaciara,10.333333333333334,0.0,3
+iacri,13.5,0.0,2
+iacu,24.25,0.0,4
+iapu,18.4,0.2,4
+iaras,7.0,0.0,1
+iati,20.333333333333332,0.0,3
+ibaiti,10.727272727272727,0.0,11
+ibarama,14.0,0.0,1
+ibate,9.692307692307692,0.07692307692307693,12
+ibateguara,15.0,0.0,2
+ibatiba,16.77777777777778,0.1111111111111111,9
+ibema,11.0,0.0,1
+ibertioga,17.0,0.0,1
+ibia,12.636363636363637,0.09090909090909091,8
+ibiaca,13.5,0.0,2
+ibiai,9.0,0.0,3
+ibiajara,27.0,0.0,1
+ibiam,15.75,0.25,4
+ibiapina,18.666666666666668,0.0,3
+ibiara,16.0,0.0,1
+ibiassuce,16.0,0.0,2
+ibicarai,18.2,0.0,5
+ibicare,15.0,0.0,2
+ibicoara,16.333333333333332,0.0,3
+ibicuitinga,22.0,0.0,1
+ibimirim,23.333333333333332,0.3333333333333333,3
+ibipeba,14.0,0.0,1
+ibipitanga,13.0,0.0,2
+ibipora,8.6,0.0,12
+ibira,6.833333333333333,0.0,6
+ibiracatu,11.0,0.0,1
+ibiraci,10.0,0.0,3
+ibiracu,18.0,0.0,1
+ibiraiaras,9.0,0.0,2
+ibiraja,36.0,0.5,2
+ibirama,12.058823529411764,0.0,13
+ibirapua,13.0,0.0,1
+ibirarema,8.4,0.0,5
+ibirataia,10.5,0.0,2
+ibirite,10.083333333333334,0.020833333333333332,47
+ibiruba,11.416666666666666,0.0,20
+ibitiara,12.0,0.0,1
+ibitinga,9.25,0.0,22
+ibitioca,46.0,0.0,1
+ibitira,22.0,0.0,1
+ibitita,16.0,0.0,1
+ibitiuva,6.0,0.0,1
+ibiuna,9.805555555555555,0.05555555555555555,31
+ibotirama,10.666666666666666,0.0,7
+icapui,21.6,0.0,5
+icara,13.5,0.25,21
+icarai de minas,10.5,0.0,2
+icaraima,10.0,0.0,1
+icatu,16.0,0.0,1
+icem,6.363636363636363,0.0,9
+ichu,20.0,0.0,2
+ico,25.333333333333332,0.3333333333333333,8
+iconha,14.6,0.0,5
+ielmo marinho,26.5,0.0,2
+iepe,10.5,0.0,5
+igaci,38.0,1.0,2
+igapora,35.0,1.0,1
+igaracu do tiete,6.0,0.0,4
+igarapava,13.428571428571429,0.14285714285714285,7
+igarape,13.5,0.0,9
+igarape-acu,17.0,0.0,1
+igarape-miri,29.0,0.0,1
+igarassu,20.583333333333332,0.16666666666666666,11
+igarata,11.8,0.0,5
+igaratinga,9.0,0.0,1
+igrapiuna,25.0,0.0,1
+igreja nova,27.0,0.5,2
+igrejinha,12.65,0.05,17
+iguaba grande,17.96153846153846,0.34615384615384615,19
+iguai,14.0,0.0,2
+iguape,10.785714285714286,0.0,14
+iguaracu,12.0,0.0,2
+iguatama,9.666666666666666,0.0,3
+iguatu,21.22222222222222,0.1111111111111111,15
+ijui,14.575757575757576,0.0,52
+ilha comprida,6.333333333333333,0.0,3
+ilha de itamaraca,26.0,0.5,4
+ilha dos valadares,27.0,1.0,1
+ilha grande,14.0,0.0,1
+ilha solteira,10.76923076923077,0.038461538461538464,24
+ilhabela,10.346938775510203,0.04081632653061224,44
+ilheus,19.835443037974684,0.16455696202531644,69
+ilhota,14.5,0.0,4
+ilicinea,16.0,0.0,1
+ilopolis,11.333333333333334,0.0,3
+imaculada,40.0,0.6666666666666666,3
+imbau,8.0,0.0,2
+imbe,13.705882352941176,0.058823529411764705,13
+imbe de minas,16.5,0.0,2
+imbituba,15.363636363636363,0.06060606060606061,31
+imbituva,12.2,0.0,8
+imbuia,17.2,0.0,4
+imigrante,10.0,0.0,3
+imperatriz,21.931818181818183,0.20454545454545456,40
+inacio martins,15.6,0.0,5
+inaciolandia,19.5,0.5,3
+inaja,11.25,0.0,4
+inconfidentes,19.0,0.0,2
+indaial,12.793103448275861,0.0,26
+indaiatuba,8.00925925925926,0.030864197530864196,274
+independencia,19.0,0.0,1
+indiana,7.0,0.0,3
+indianopolis,13.8,0.2,5
+indiapora,8.333333333333334,0.0,3
+indiara,16.6,0.0,4
+indiaroba,39.0,1.0,1
+inga,14.0,0.0,1
+ingai,30.0,1.0,1
+inhambupe,31.428571428571427,0.2857142857142857,7
+inhapi,24.0,0.5,2
+inhapim,10.857142857142858,0.0,7
+inhauma,7.5,0.0,2
+inhuma,35.0,1.0,1
+inhumas,15.882352941176471,0.11764705882352941,16
+inimutaba,8.0,0.0,2
+inocencia,16.0,0.0,1
+inubia paulista,5.0,0.0,3
+iomere,2.0,0.0,1
+ipaba,14.333333333333334,0.1111111111111111,8
+ipameri,14.461538461538462,0.0,12
+ipanema,14.11111111111111,0.0,7
+ipaporanga,32.0,0.5,2
+ipatinga,10.82,0.04,169
+ipaumirim,22.0,0.0,1
+ipaussu,8.11111111111111,0.0,7
+ipe,16.5,0.0,2
+ipecaeta,29.0,1.0,1
+ipero,9.157894736842104,0.0,18
+ipiabas,20.8,0.0,4
+ipiacu,10.666666666666666,0.0,3
+ipiau,14.125,0.0,7
+ipigua,12.0,0.0,2
+ipira,12.0,0.0,8
+ipiranga,11.0,0.0,4
+ipiranga de goias,16.0,0.0,1
+ipiranga do norte,15.0,0.0,1
+ipiranga do sul,13.0,0.0,1
+ipixuna do para,15.0,0.0,2
+ipojuca,21.533333333333335,0.2,15
+ipora,12.61111111111111,0.05555555555555555,17
+ipora do oeste,16.166666666666668,0.16666666666666666,6
+ipu,20.75,0.0,4
+ipua,10.76923076923077,0.07692307692307693,4
+ipubi,12.25,0.0,3
+ipueira,31.0,1.0,1
+ipueiras,13.0,0.0,3
+ipuiuna,35.0,1.0,1
+ipumirim,13.6,0.0,5
+ipupiara,23.0,0.0,1
+iracema,41.5,0.5,2
+iracemapolis,10.55,0.1,18
+irai,14.5,0.0,2
+irai de minas,5.5,0.0,2
+iramaia,22.5,0.0,2
+irani,13.0,0.0,4
+irape,9.5,0.0,2
+irapua,5.8,0.0,4
+irapuru,8.5,0.0,6
+iraquara,18.5,0.16666666666666666,5
+irara,18.5,0.0,2
+irati,11.782608695652174,0.0,22
+iraucuba,15.0,0.0,2
+irece,19.52173913043478,0.21739130434782608,13
+iretama,22.0,0.0,1
+irineopolis,11.75,0.0,4
+irupi,10.0,0.0,2
+isaias coelho,10.0,0.0,1
+ita,11.666666666666666,0.0,3
+itaara,31.0,1.0,1
+itabaiana,18.57894736842105,0.10526315789473684,15
+itabaianinha,26.0,0.6666666666666666,2
+itabatan,19.5,0.0,2
+itabela,18.75,0.25,4
+itabera,11.625,0.0,7
+itaberaba,17.22222222222222,0.1111111111111111,9
+itaberai,13.666666666666666,0.0,6
+itabi,24.0,0.0,1
+itabira,12.597826086956522,0.05434782608695652,77
+itabirinha,7.0,0.0,1
+itabirito,11.46875,0.03125,28
+itaborai,17.583333333333332,0.18333333333333332,56
+itabuna,17.96969696969697,0.13636363636363635,60
+itacarambi,10.0,0.0,3
+itacare,30.428571428571427,0.14285714285714285,7
+itacoatiara,46.0,1.0,1
+itagi,16.5,0.0,2
+itagiba,24.5,0.5,2
+itagimirim,10.0,0.0,1
+itaguacu,14.7,0.2,9
+itaguacu da bahia,21.0,0.0,1
+itaguai,11.319148936170214,0.10638297872340426,46
+itaguaje,12.0,0.0,2
+itaguara,8.5,0.0,2
+itaguari,19.0,0.0,1
+itaguaru,13.5,0.0,2
+itai,9.0,0.0,10
+itaicaba,21.0,0.0,1
+itaiopolis,16.818181818181817,0.09090909090909091,8
+itaipava,12.6,0.0,4
+itaipulandia,14.833333333333334,0.0,6
+itaitinga,19.333333333333332,0.0,3
+itaituba,29.75,0.25,3
+itaja,12.0,0.0,3
+itajai,13.763779527559056,0.11811023622047244,119
+itajobi,15.166666666666666,0.0,10
+itaju,15.0,0.6,3
+itaju do colonia,18.0,0.0,1
+itajuba,10.89622641509434,0.018867924528301886,92
+itajuipe,15.333333333333334,0.0,3
+italva,11.692307692307692,0.07692307692307693,12
+itamaraju,16.272727272727273,0.18181818181818182,11
+itamarandiba,10.181818181818182,0.0,8
+itamari,21.0,0.0,3
+itambacuri,10.375,0.0,6
+itambaraca,12.666666666666666,0.0,2
+itambe,20.857142857142858,0.2857142857142857,7
+itamira,14.5,0.0,2
+itamogi,17.5,0.0,2
+itamonte,13.23076923076923,0.0,10
+itanhaem,10.989583333333334,0.03125,74
+itanhandu,11.571428571428571,0.07142857142857142,13
+itanhanga,24.0,0.0,1
+itanhem,13.0,0.0,1
+itanhomi,10.0,0.0,4
+itaobim,11.142857142857142,0.0,6
+itaoca,19.666666666666668,0.6666666666666666,3
+itaocara,12.222222222222221,0.1111111111111111,16
+itapaci,15.75,0.25,3
+itapage,18.0,0.0,1
+itapagipe,8.4,0.0,5
+itapaje,20.666666666666668,0.16666666666666666,6
+itaparica,15.0,0.0,1
+itape,12.0,0.0,1
+itapecerica,9.307692307692308,0.0,13
+itapecerica da serra,9.278846153846153,0.09615384615384616,93
+itapecuru mirim,14.5,0.0,4
+itapejara d'oeste,15.428571428571429,0.0,6
+itapema,12.166666666666666,0.020833333333333332,44
+itapemirim,15.0,0.25,4
+itaperucu,11.5,0.25,4
+itaperuna,18.830188679245282,0.2830188679245283,46
+itapetim,13.666666666666666,0.0,2
+itapetinga,15.052631578947368,0.0,18
+itapetininga,10.095744680851064,0.10638297872340426,77
+itapeva,8.636363636363637,0.015151515151515152,57
+itapevi,7.323076923076923,0.06153846153846154,170
+itapicuru,28.0,0.5,2
+itapipoca,25.636363636363637,0.09090909090909091,10
+itapira,11.051724137931034,0.034482758620689655,52
+itapiranga,12.25,0.0,11
+itapirapua,14.5,0.0,2
+itapirapua paulista,8.5,0.0,2
+itapissuma,19.333333333333332,0.0,3
+itapitanga,14.333333333333334,0.0,3
+itapiuna,16.0,0.0,2
+itapoa,16.333333333333332,0.3333333333333333,9
+itapolis,11.515151515151516,0.06060606060606061,28
+itapora,13.333333333333334,0.0,3
+itaporanga,13.88888888888889,0.05555555555555555,14
+itaporanga d'ajuda,49.0,1.0,1
+itapui,12.285714285714286,0.14285714285714285,7
+itapura,7.833333333333333,0.0,6
+itapuranga,14.714285714285714,0.0,6
+itaquaquecetuba,8.59322033898305,0.11299435028248588,168
+itaqui,15.470588235294118,0.058823529411764705,9
+itaquirai,24.0,0.5,2
+itaquitinga,18.0,0.0,2
+itarana,18.666666666666668,0.0,3
+itarantim,16.8,0.0,3
+itarare,8.897435897435898,0.05128205128205128,28
+itarema,19.0,0.0,1
+itariri,14.285714285714286,0.14285714285714285,6
+itatiaia,17.42105263157895,0.15789473684210525,18
+itatiaiucu,26.5,0.5,2
+itatiba,7.345794392523365,0.009345794392523364,97
+itatiba do sul,17.0,0.0,1
+itatim,13.75,0.0,3
+itatinga,11.25,0.0,4
+itau,18.5,0.0,2
+itau de minas,12.2,0.0,5
+itauba,16.6,0.2,5
+itaueira,14.0,0.0,2
+itauna,10.507936507936508,0.07936507936507936,56
+itinga,12.5,0.0,3
+itiquira,11.0,0.0,1
+itirapina,15.5,0.5,2
+itirucu,26.333333333333332,0.0,3
+itiuba,19.75,0.0,4
+itobi,7.285714285714286,0.0,7
+itororo,23.5,0.5,2
+itu,7.98581560283688,0.06382978723404255,129
+ituacu,15.75,0.0,3
+itubera,9.5,0.0,3
+itueta,20.0,0.0,2
+ituiutaba,11.435483870967742,0.04838709677419355,53
+itumbiara,12.066666666666666,0.022222222222222223,35
+itupeva,10.627118644067796,0.06779661016949153,42
+itupiranga,19.0,0.0,1
+ituporanga,12.125,0.0,15
+iturama,14.714285714285714,0.07142857142857142,14
+itutinga,8.0,0.0,1
+ituverava,8.787878787878787,0.0,28
+iuna,17.5,0.5,2
+ivai,12.0,0.0,2
+ivaipora,10.714285714285714,0.0,7
+ivate,9.333333333333334,0.0,3
+ivinhema,15.5,0.0,3
+ivora,13.0,0.0,1
+ivoti,12.692307692307692,0.07692307692307693,13
+jaboatao dos guararapes,15.35,0.05714285714285714,131
+jabora,21.0,0.0,2
+jaborandi,6.0,0.0,3
+jaboti,8.0,0.0,2
+jaboticabal,10.482142857142858,0.017857142857142856,50
+jaboticatubas,8.0,0.0,1
+jacaraci,24.75,0.25,4
+jacare,9.8,0.0,8
+jacareacanga,51.0,1.0,1
+jacarei,7.599033816425121,0.06280193236714976,188
+jacarezinho,10.5,0.0,16
+jaci,11.5,0.0,2
+jaciara,20.0,0.3333333333333333,3
+jacigua,25.5,0.5,2
+jacinto,16.0,0.0,2
+jacinto machado,12.75,0.0,4
+jacobina,16.782608695652176,0.08695652173913043,23
+jacui,11.25,0.0,4
+jacuipe,35.0,1.0,1
+jacuizinho,19.0,1.0,1
+jacunda,21.428571428571427,0.0,6
+jacupiranga,9.0,0.0,5
+jacutinga,13.333333333333334,0.047619047619047616,19
+jaguaquara,29.0,0.5,2
+jaguaracu,13.0,0.0,1
+jaguarao,13.1,0.0,8
+jaguare,12.642857142857142,0.0,13
+jaguarembe,21.0,0.0,1
+jaguari,12.333333333333334,0.0,3
+jaguariaiva,9.0,0.0,17
+jaguaribara,20.0,0.0,1
+jaguaribe,19.8,0.0,5
+jaguariuna,7.0875,0.0125,60
+jaguaruana,21.25,0.0,4
+jaguaruna,10.0,0.0,2
+jaiba,13.833333333333334,0.0,6
+jales,7.548387096774194,0.03225806451612903,28
+jamaica,14.0,0.0,1
+jamapara,10.0,0.0,1
+jambeiro,9.5,0.0,4
+jampruca,8.0,0.0,1
+janauba,12.37037037037037,0.0,16
+jandaia,10.0,0.0,1
+jandaia do sul,21.333333333333332,0.3333333333333333,8
+jandaira,14.0,0.0,2
+jandira,7.85,0.04,84
+janduis,42.0,1.0,1
+janiopolis,14.0,0.0,3
+januaria,20.26923076923077,0.15384615384615385,22
+japaraiba,7.0,0.0,1
+japaratuba,20.0,0.0,1
+japeri,17.2,0.2,34
+japi,44.0,1.0,1
+japira,12.6,0.0,3
+japoata,26.0,0.0,1
+japuiba,15.375,0.125,5
+japura,17.875,0.0,5
+jaqueira,13.666666666666666,0.0,3
+jaquirana,14.0,0.0,1
+jaragua,15.285714285714286,0.0,7
+jaragua do sul,12.545454545454545,0.06363636363636363,88
+jaraguari,12.5,0.0,2
+jardim,11.8,0.0,5
+jardim abc de goias,9.0,0.0,1
+jardim alegre,12.0,0.0,2
+jardim de piranhas,14.0,0.0,1
+jardim do serido,20.666666666666668,0.0,3
+jardim olinda,12.0,0.0,1
+jardinopolis,9.285714285714286,0.0,13
+jari,12.5,0.0,4
+jarinu,9.7,0.0,18
+jaru,16.166666666666668,0.0,6
+jatai,14.933333333333334,0.05,54
+jatauba,27.0,0.5,2
+jatoba,22.0,0.25,4
+jau,7.535714285714286,0.023809523809523808,73
+jaua,27.0,1.0,1
+jaupaci,13.0,0.0,1
+jauru,16.8,0.2,5
+jeceaba,12.428571428571429,0.0,6
+jenipapo de minas,7.0,0.0,1
+jequeri,32.0,1.0,1
+jequia da praia,16.5,0.0,2
+jequie,16.114285714285714,0.08571428571428572,33
+jequitai,17.0,0.0,2
+jequitiba,9.0,0.0,2
+jequitinhonha,11.181818181818182,0.0,11
+jeremoabo,23.666666666666668,0.16666666666666666,6
+jerico,16.0,0.0,1
+jeriquara,14.0,0.0,1
+jeronimo monteiro,15.0,0.0,2
+jesuania,15.833333333333334,0.3333333333333333,5
+jesuitas,12.75,0.0,4
+jesupolis,8.0,0.0,2
+ji-parana,18.68421052631579,0.05263157894736842,17
+jijoca de jericoacoara,15.0,0.0,4
+jiquirica,47.0,1.0,1
+joacaba,17.51851851851852,0.07407407407407407,26
+joaima,13.0,0.0,1
+joanopolis,12.5,0.0,6
+joao alfredo,20.333333333333332,0.3333333333333333,3
+joao camara,19.5,0.0,2
+joao dourado,16.0,0.0,1
+joao lisboa,13.2,0.0,5
+joao monlevade,9.89655172413793,0.017241379310344827,50
+joao neiva,11.0,0.0,8
+joao pessoa,20.356401384083046,0.12802768166089964,245
+joao pinheiro,11.833333333333334,0.1111111111111111,16
+joao ramalho,9.333333333333334,0.0,3
+joaquim nabuco,29.5,0.5,4
+joaquim pires,26.0,0.0,1
+joaquim tavora,10.75,0.25,3
+joinville,14.602112676056338,0.09154929577464789,257
+jordania,9.6,0.0,5
+jose boiteux,17.0,0.0,1
+jose bonifacio,9.76923076923077,0.0,12
+jose da penha,18.0,0.0,1
+jose de freitas,12.666666666666666,0.0,3
+joselandia,45.0,1.0,1
+joviania,17.2,0.0,5
+juara,15.833333333333334,0.0,5
+juatuba,13.5,0.0,4
+juazeiro,21.195652173913043,0.17391304347826086,41
+juazeiro do norte,20.4,0.14285714285714285,31
+jucas,34.0,1.0,1
+jucurucu,13.5,0.0,2
+jucurutu,18.75,0.0,4
+juina,16.055555555555557,0.05555555555555555,17
+juiz de fora,12.061702127659574,0.0574468085106383,423
+julio de castilhos,13.7,0.1,10
+julio mesquita,11.333333333333334,0.0,2
+jumirim,7.8,0.0,3
+junco do serido,16.0,0.0,2
+jundiai,8.35981308411215,0.056074766355140186,549
+jundiai do sul,16.0,0.0,3
+junqueiro,15.0,0.0,2
+junqueiropolis,9.631578947368421,0.0,15
+jupi,11.0,0.0,2
+juquia,7.7,0.0,9
+juquitiba,6.72,0.0,21
+juranda,25.0,0.5,2
+jurema,17.0,0.0,1
+juripiranga,18.0,0.0,1
+juru,12.0,0.0,1
+juruaia,13.666666666666666,0.0,6
+juruena,13.666666666666666,0.0,3
+juruti,27.0,0.0,1
+juscimeira,24.5,0.0,2
+jussara,11.75,0.0,4
+jussari,14.0,0.0,2
+jussiape,7.0,0.0,1
+juti,10.75,0.0,4
+juvenilia,8.0,0.0,2
+kalore,14.0,0.0,2
+ladainha,8.5,0.0,2
+ladario,16.2,0.0,4
+lagarto,19.8,0.2,10
+lages,16.03125,0.13541666666666666,84
+lago da pedra,26.0,0.4,5
+lago verde,22.0,0.0,1
+lagoa,44.0,1.0,1
+lagoa d'anta,20.0,0.0,1
+lagoa da canoa,46.0,1.0,1
+lagoa da confusao,22.6,0.2,5
+lagoa da prata,11.7,0.0,10
+lagoa de sao francisco,13.0,0.0,1
+lagoa de velhos,18.0,0.0,1
+lagoa do carro,13.0,0.0,2
+lagoa do mato,31.0,0.0,1
+lagoa do ouro,14.0,0.0,2
+lagoa do piaui,22.0,0.0,1
+lagoa dos gatos,10.666666666666666,0.0,3
+lagoa dos patos,8.0,0.0,1
+lagoa dos tres cantos,15.0,0.0,1
+lagoa dourada,14.0,0.16666666666666666,5
+lagoa formosa,11.375,0.0,7
+lagoa grande,13.125,0.125,8
+lagoa nova,21.5,0.0,2
+lagoa real,12.0,0.0,1
+lagoa salgada,35.0,1.0,1
+lagoa santa,10.661538461538461,0.015384615384615385,58
+lagoa vermelha,12.642857142857142,0.0,14
+lagoao,8.0,0.0,1
+lagoinha,12.0,0.0,3
+lagoinha do piaui,22.0,0.0,1
+laguna,17.727272727272727,0.13636363636363635,14
+laje do muriae,14.0,0.0,1
+lajeado,15.706896551724139,0.017241379310344827,51
+lajeado grande,22.0,0.0,1
+lajedo,13.833333333333334,0.0,6
+lajinha,9.333333333333334,0.0,3
+lamarao,9.0,0.0,1
+lambari,12.0,0.0,8
+lamim,15.0,1.0,1
+lapa,11.833333333333334,0.0,14
+laranja da terra,18.0,0.0,1
+laranjal,14.5,0.0,2
+laranjal do jari,29.0,0.0,2
+laranjal paulista,10.7,0.05,17
+laranjeiras do sul,11.636363636363637,0.0,19
+laurentino,17.8,0.2,5
+lauro de freitas,16.98780487804878,0.13414634146341464,72
+lauro muller,17.375,0.25,8
+lavinia,8.0,0.0,4
+lavras,13.505494505494505,0.10989010989010989,79
+lavras da mangabeira,12.0,0.0,2
+lavras do sul,10.333333333333334,0.0,3
+lavrinhas,12.0,0.0,1
+leandro ferreira,12.0,0.0,2
+leme,10.30188679245283,0.05660377358490566,50
+lencois,12.0,0.0,1
+lencois paulista,8.521739130434783,0.021739130434782608,43
+leoberto leal,33.0,1.0,1
+leopoldina,10.95,0.0,17
+leopoldo de bulhoes,18.0,0.0,1
+leopolis,14.0,0.0,1
+liberato salzano,11.0,0.0,1
+liberdade,8.333333333333334,0.0,3
+lima duarte,13.333333333333334,0.16666666666666666,6
+limeira,8.177272727272728,0.05454545454545454,186
+limeira do oeste,22.333333333333332,0.0,2
+limoeiro,21.714285714285715,0.14285714285714285,7
+limoeiro do norte,19.333333333333332,0.16666666666666666,11
+lindoeste,14.0,0.0,2
+lindoia,9.8,0.0,9
+lindoia do sul,9.0,0.0,1
+lindolfo collor,9.0,0.0,1
+linhares,12.48,0.06666666666666667,64
+lins,11.901639344262295,0.08196721311475409,54
+livramento de nossa senhora,13.0,0.0,5
+loanda,11.333333333333334,0.0,13
+lobato,19.666666666666668,0.0,3
+londrina,10.570121951219512,0.03353658536585366,298
+lontras,14.666666666666666,0.0,3
+lorena,10.258064516129032,0.053763440860215055,82
+loreto,18.0,0.0,1
+lourdes,14.5,0.0,2
+louveira,11.23913043478261,0.08695652173913043,44
+lucas do rio verde,20.275862068965516,0.1724137931034483,23
+lucelia,11.416666666666666,0.08333333333333333,12
+lucena,36.0,0.0,1
+lucianopolis,8.75,0.0,2
+luis antonio,8.666666666666666,0.0,7
+luis correia,20.0,0.0,1
+luis eduardo magalhaes,21.88372093023256,0.2558139534883721,36
+luisburgo,11.333333333333334,0.0,2
+luiz alves,10.5,0.0,2
+luiziana,10.5,0.0,2
+luiziania,6.0,0.0,3
+luizlandia do oeste,17.5,0.0,2
+luminarias,14.666666666666666,0.0,3
+lunardelli,16.5,0.0,2
+lupercio,9.0,0.0,3
+lupionopolis,14.5,0.0,2
+lutecia,9.0,0.0,1
+luz,13.0,0.0,2
+luziania,12.916666666666666,0.027777777777777776,33
+luziapolis,14.0,0.0,1
+luzilandia,20.666666666666668,0.3333333333333333,3
+macae,16.39463601532567,0.1724137931034483,228
+macaiba,20.4,0.2,5
+macambara,17.0,0.0,2
+macambira,35.0,1.0,1
+macapa,24.135593220338983,0.0,52
+macaparana,9.0,0.0,2
+macatuba,10.11111111111111,0.0,12
+macau,20.8,0.0,5
+macaubal,17.0,0.0,1
+macaubas,23.0,0.15384615384615385,8
+macedonia,9.5,0.0,4
+maceio,24.828,0.288,236
+machacalis,11.5,0.0,2
+machadinho,65.0,1.0,1
+machadinho d'oeste,24.333333333333332,0.0,3
+machado,13.08695652173913,0.13043478260869565,21
+machados,14.0,0.0,1
+macieira,22.0,0.0,1
+macuco,13.0,0.0,1
+macuco de minas,16.0,0.0,1
+madalena,22.0,0.0,1
+madre de deus,17.857142857142858,0.14285714285714285,7
+madre de deus de minas,15.333333333333334,0.3333333333333333,3
+mae d'agua,13.0,0.0,1
+mae do rio,25.0,0.0,2
+mafra,12.7,0.0,25
+magalhaes de almeida,25.0,0.0,1
+magda,6.5,0.0,2
+mage,12.328125,0.03125,106
+maioba,40.5,1.0,2
+maiquinique,16.0,0.0,1
+mairi,14.333333333333334,0.0,2
+mairinque,10.37037037037037,0.0,24
+mairipora,7.831325301204819,0.12048192771084337,75
+major porto,24.0,0.0,1
+major vieira,11.666666666666666,0.0,3
+malacacheta,13.083333333333334,0.0,7
+malhador,21.0,0.0,1
+mallet,11.142857142857142,0.0,6
+mamanguape,29.1,0.1,6
+mambai,11.0,0.0,2
+mambore,14.625,0.0,8
+mamonas,15.0,0.0,1
+mampituba,13.0,0.0,1
+manaira,15.0,0.0,1
+manaus,25.137254901960784,0.026143790849673203,136
+mandaguacu,11.0,0.0,4
+mandaguari,14.041666666666666,0.08333333333333333,18
+mandirituba,30.0,1.0,1
+manduri,7.666666666666667,0.0,3
+manfrinopolis,12.0,0.0,1
+manga,10.0,0.0,3
+mangaratiba,18.571428571428573,0.2857142857142857,12
+mangueirinha,17.666666666666668,0.0,8
+manhuacu,10.833333333333334,0.05128205128205128,64
+manhumirim,12.1875,0.0,16
+manoel ribas,19.4,0.2,4
+manoel urbano,12.0,0.0,1
+manoel viana,16.666666666666668,0.3333333333333333,3
+mansidao,12.0,0.0,1
+mantena,12.571428571428571,0.14285714285714285,11
+mantenopolis,7.5,0.0,4
+maquine,15.0,0.0,1
+mar de espanha,10.3,0.0,9
+mar vermelho,12.5,0.0,2
+mara rosa,17.5,0.5,2
+maraba,25.227272727272727,0.13636363636363635,22
+maracacume,19.75,0.25,4
+maracai,8.363636363636363,0.0,8
+maracaju,15.0625,0.0625,13
+maracana,10.2,0.0,2
+maracanau,20.710526315789473,0.3157894736842105,31
+maracas,11.666666666666666,0.0,5
+maragogi,33.2,0.4,5
+maragogipe,17.0,0.0,2
+maranguape,18.666666666666668,0.3333333333333333,3
+maranhaozinho,29.0,0.0,1
+marataizes,13.647058823529411,0.0,16
+marau,12.12,0.04,22
+maravilha,18.636363636363637,0.09090909090909091,11
+maravilhas,7.0,0.0,4
+marcelino vieira,78.0,1.0,1
+marco,15.75,0.25,3
+marcos parente,11.0,0.0,1
+marechal candido rondon,14.212121212121213,0.09090909090909091,30
+marechal deodoro,19.0,0.0,1
+marechal floriano,15.666666666666666,0.0,5
+mari,15.0,0.0,3
+maria da fe,10.333333333333334,0.0,3
+marialva,11.947368421052632,0.0,16
+mariana,11.735294117647058,0.058823529411764705,33
+mariano moro,5.0,0.0,1
+mariapolis,9.5,0.0,2
+maribondo,17.0,0.0,1
+marica,15.825503355704697,0.1476510067114094,133
+mariental,20.0,0.0,1
+marilac,9.0,0.0,1
+marilandia,15.25,0.0,8
+marilandia do sul,12.0,0.0,1
+marilena,13.0,0.0,1
+marilia,9.439613526570048,0.028985507246376812,194
+mariluz,12.5,0.0,2
+maringa,11.606451612903227,0.05161290322580645,260
+marinopolis,5.5,0.0,2
+mario campos,11.5,0.0,3
+mariopolis,11.0,0.0,1
+maripa,17.5,0.0,3
+maristela,18.0,0.2,4
+marituba,25.142857142857142,0.14285714285714285,14
+marmeleiro,23.333333333333332,0.1111111111111111,7
+marques de souza,28.0,0.0,1
+martinesia,10.0,0.0,1
+martinho campos,7.5,0.0,2
+martinopolis,8.2,0.0,8
+martins,14.0,0.0,2
+martins soares,11.333333333333334,0.16666666666666666,6
+mascote,25.5,0.0,2
+massape,17.5,0.0,2
+massaranduba,22.4,0.0,3
+mata,9.0,0.0,1
+mata de sao joao,19.666666666666668,0.08333333333333333,11
+mata grande,17.0,0.0,2
+mata roma,20.0,0.5,2
+mata verde,10.25,0.0,6
+matao,9.12280701754386,0.0,51
+matelandia,10.5,0.0,2
+materlandia,10.0,0.0,2
+mateus leme,16.333333333333332,0.2222222222222222,8
+matias barbosa,14.4375,0.0,13
+matias olimpio,11.0,0.0,1
+matinhos,11.515151515151516,0.030303030303030304,27
+matipo,9.0,0.0,4
+mato leitao,12.666666666666666,0.0,2
+mato rico,13.0,0.0,1
+mato verde,8.666666666666666,0.0,3
+matoes,15.0,0.0,1
+matoes do norte,42.5,0.5,2
+matozinhos,8.25,0.0,12
+matrincha,15.5,0.0,2
+matriz de camaragibe,11.0,0.0,1
+matupa,12.0,0.0,7
+matutina,6.0,0.0,2
+maua,8.177842565597668,0.09037900874635568,317
+maua da serra,10.0,0.0,2
+maurilandia,12.75,0.0,4
+mauriti,24.0,0.0,1
+maximiliano de almeida,10.0,0.0,3
+medeiros,11.5,0.0,2
+medeiros neto,15.428571428571429,0.0,7
+medianeira,13.166666666666666,0.041666666666666664,21
+medicilandia,36.0,1.0,1
+medina,13.428571428571429,0.0,6
+meleiro,14.666666666666666,0.0,3
+mendes,8.5,0.0,12
+mendes pimentel,8.8,0.0,5
+mendonca,15.4,0.2,5
+mercedes,21.333333333333332,0.3333333333333333,2
+merces,19.25,0.25,4
+meridiano,5.0,0.0,1
+meruoca,21.0,0.0,2
+mesquita,12.729166666666666,0.08333333333333333,76
+messias targino,14.0,0.0,1
+miguel calmon,22.2,0.4,4
+miguel pereira,13.40625,0.125,28
+miguelopolis,8.857142857142858,0.0,14
+milagres,12.75,0.0,4
+milha,18.666666666666668,0.0,2
+mimoso de goias,7.0,0.0,1
+mimoso do sul,14.555555555555555,0.1111111111111111,9
+minacu,12.083333333333334,0.0,11
+minas do leao,12.0,0.0,1
+minas novas,13.0,0.0,4
+minduri,6.0,0.0,1
+mineiros,12.566666666666666,0.0,25
+mineiros do tiete,8.0,0.0,3
+ministro andreazza,17.0,0.0,1
+mira estrela,10.0,0.0,1
+miracatu,11.375,0.0,5
+miracema,13.61111111111111,0.05555555555555555,17
+miradouro,11.0,0.0,1
+miraguai,5.0,0.0,1
+mirai,13.1,0.0,8
+miraima,25.0,0.0,2
+miranda,11.25,0.0,4
+miranda do norte,16.0,0.0,1
+mirandiba,10.333333333333334,0.0,3
+mirandopolis,10.266666666666667,0.06666666666666667,13
+miranorte,31.0,0.6666666666666666,2
+mirante da serra,17.0,0.0,1
+mirante do paranapanema,10.666666666666666,0.0,3
+mirassol,9.483870967741936,0.06451612903225806,29
+mirassol d'oeste,16.142857142857142,0.07142857142857142,14
+miravania,13.0,0.0,1
+mirinzal,17.0,0.0,3
+missal,18.285714285714285,0.14285714285714285,7
+missao velha,23.0,0.0,1
+missi,21.0,0.0,1
+mocajuba,30.0,0.0,1
+mococa,9.743589743589743,0.0,33
+moeda,6.0,0.0,1
+moema,11.0,0.0,1
+mogi das cruzes,7.048275862068966,0.03218390804597701,374
+mogi mirim,7.261904761904762,0.011904761904761904,75
+mogi-guacu,9.14423076923077,0.057692307692307696,89
+mogi-mirim,5.0,0.0,2
+moju,25.0,0.25,4
+mojui dos campos,27.5,0.5,2
+mombaca,18.0,0.0,1
+mombuca,16.666666666666668,0.3333333333333333,3
+moncao,12.0,0.0,1
+moncoes,10.5,0.0,2
+mondai,11.0,0.0,2
+mongagua,10.311111111111112,0.044444444444444446,41
+monnerat,20.5,0.0,2
+monsenhor paulo,9.0,0.0,1
+monsenhor tabosa,20.666666666666668,0.0,3
+montadas,36.0,1.0,1
+montalvania,17.5,0.0,3
+montanha,10.454545454545455,0.0,9
+montanhas,12.0,0.0,1
+montauri,12.5,0.0,2
+monte alegre,19.666666666666668,0.0,2
+monte alegre de minas,7.2,0.0,4
+monte alegre de sergipe,19.0,0.0,1
+monte alegre do sul,6.714285714285714,0.0,6
+monte alto,9.636363636363637,0.030303030303030304,32
+monte alverne,12.0,0.0,1
+monte aprazivel,13.0,0.0,10
+monte azul,14.2,0.0,5
+monte azul paulista,10.0,0.043478260869565216,19
+monte belo,12.875,0.375,5
+monte belo do sul,10.0,0.0,1
+monte bonito,31.0,0.0,1
+monte carlo,11.0,0.0,3
+monte carmelo,8.625,0.0,23
+monte castelo,7.5,0.0,2
+monte formoso,9.0,0.0,2
+monte gordo,37.0,1.0,1
+monte mor,10.804878048780488,0.12195121951219512,38
+monte santo,27.0,0.0,1
+monte santo de minas,13.88888888888889,0.1111111111111111,9
+monte siao,11.818181818181818,0.18181818181818182,20
+monte verde,31.0,0.6666666666666666,3
+monteiropolis,34.0,1.0,1
+montenegro,12.647058823529411,0.058823529411764705,32
+montes claros,10.905982905982906,0.029914529914529916,207
+montezuma,17.0,0.0,2
+montividiu do norte,18.0,0.0,1
+morada nova,18.0,0.0,10
+morada nova de minas,11.25,0.0,3
+moreilandia,18.0,0.0,2
+moreira sales,10.0,0.0,3
+moreno,14.142857142857142,0.0,5
+morpara,10.0,0.0,2
+morretes,12.666666666666666,0.0,3
+morrinhos,17.083333333333332,0.041666666666666664,18
+morro agudo,7.894736842105263,0.0,9
+morro agudo de goias,19.0,0.0,1
+morro da fumaca,10.285714285714286,0.0,7
+morro da garca,14.0,0.0,1
+morro de sao paulo,23.0,0.0,1
+morro do chapeu,12.666666666666666,0.0,7
+morro do ferro,12.0,0.0,1
+morro do pilar,13.0,0.0,1
+morro grande,19.0,0.0,1
+morro redondo,14.0,0.0,1
+morro reuter,13.25,0.0,3
+morro vermelho,15.0,0.0,1
+morungaba,9.857142857142858,0.14285714285714285,7
+mossamedes,13.0,0.0,1
+mossoro,18.894736842105264,0.10526315789473684,35
+mostardas,14.545454545454545,0.0,11
+motuca,9.0,0.0,2
+mozarlandia,14.714285714285714,0.0,7
+mucambo,15.0,0.0,1
+mucuge,10.0,0.0,1
+mucuri,18.857142857142858,0.0,7
+mucurici,12.0,0.0,1
+mundo novo,11.857142857142858,0.0,6
+munhoz,11.4,0.0,4
+munhoz de melo,15.75,0.0,4
+muniz freire,10.0,0.0,2
+muquem do sao francisco,16.5,0.0,2
+muqui,13.8,0.0,4
+muriae,10.821917808219178,0.0273972602739726,63
+murici,13.0,0.0,1
+muritiba,7.0,0.0,1
+murucupi,24.0,0.0,1
+murutinga do sul,9.0,0.0,2
+mussurepe,39.0,1.0,1
+mutuipe,17.0,0.0,4
+mutum,11.222222222222221,0.0,8
+mutum parana,25.0,0.0,1
+mutunopolis,21.0,0.0,1
+muzambinho,14.8,0.2,9
+nacip raydan,15.0,0.0,1
+nantes,5.0,0.0,1
+nanuque,14.964285714285714,0.10714285714285714,25
+nao-me-toque,18.555555555555557,0.2222222222222222,7
+narandiba,11.0,0.0,2
+natal,18.06140350877193,0.10964912280701754,203
+natercia,13.0,0.0,1
+natividade,13.705882352941176,0.11764705882352941,16
+natividade da serra,14.0,0.0,1
+navegantes,12.0,0.05555555555555555,31
+navirai,17.7,0.1,8
+nazare,13.0,0.0,3
+nazare da mata,16.0,0.0,1
+nazare paulista,8.75,0.0,7
+nazareno,6.5,0.0,2
+nazario,14.5,0.0,2
+neopolis,20.0,0.0,1
+nepomuceno,14.6,0.0,9
+neropolis,12.4,0.0,7
+neves paulista,8.666666666666666,0.0,3
+nhandeara,11.428571428571429,0.0,7
+nilopolis,13.763157894736842,0.13157894736842105,103
+nipoa,8.0,0.5,2
+niquelandia,14.266666666666667,0.0,13
+niteroi,13.762004175365345,0.11377870563674322,825
+nobres,14.0,0.0,1
+nonoai,11.5,0.0,2
+nortelandia,15.0,0.0,1
+nossa senhora da gloria,23.0,0.0,2
+nossa senhora das dores,28.0,0.0,1
+nossa senhora das gracas,12.0,0.0,2
+nossa senhora de caravaggio,10.0,0.0,1
+nossa senhora de lourdes,18.0,0.0,1
+nossa senhora do o,8.0,0.0,1
+nossa senhora do remedio,11.0,0.0,2
+nossa senhora do socorro,23.666666666666668,0.26666666666666666,14
+nova alvorada,11.5,0.0,3
+nova alvorada do sul,12.5,0.16666666666666666,3
+nova america,15.0,0.0,1
+nova america da colina,11.0,0.0,1
+nova andradina,16.785714285714285,0.14285714285714285,11
+nova araca,10.0,0.0,1
+nova aurora,10.75,0.0,4
+nova bandeirantes,19.2,0.0,4
+nova bassano,12.2,0.0,4
+nova boa vista,23.0,0.0,1
+nova brasilandia d'oeste,20.5,0.0,2
+nova campina,10.5,0.0,2
+nova canaa,25.5,0.5,2
+nova canaa do norte,9.25,0.0,3
+nova canaa paulista,7.5,0.0,2
+nova cantu,12.0,0.0,2
+nova crixas,14.0,0.0,1
+nova cruz,12.0,0.0,3
+nova era,11.3125,0.0,15
+nova erechim,26.666666666666668,0.6666666666666666,3
+nova esperanca,12.545454545454545,0.0,8
+nova esperanca do piria,17.0,0.0,1
+nova esperanca do sudoeste,13.0,0.0,1
+nova esperanca do sul,7.5,0.0,2
+nova europa,10.5,0.0,8
+nova fatima,15.0,0.0,5
+nova floresta,27.0,0.0,1
+nova friburgo,19.174193548387098,0.2064516129032258,142
+nova granada,10.238095238095237,0.047619047619047616,19
+nova guarita,16.0,0.0,1
+nova guataporanga,6.0,0.0,1
+nova hartz,14.666666666666666,0.0,3
+nova iguacu,13.607802874743326,0.13552361396303902,423
+nova independencia,8.0,0.0,1
+nova ipixuna,9.0,0.0,1
+nova itaberaba,19.0,0.0,2
+nova lacerda,21.0,0.0,1
+nova laranjeiras,7.0,0.0,1
+nova lima,12.0,0.08823529411764706,96
+nova londrina,11.666666666666666,0.0,9
+nova luzitania,27.0,1.0,1
+nova mamore,22.5,0.0,2
+nova monte verde,10.0,0.0,3
+nova mutum,12.6,0.0,5
+nova odessa,8.840909090909092,0.045454545454545456,37
+nova olimpia,21.5,0.0,2
+nova olinda,15.625,0.0,4
+nova olinda do maranhao,16.75,0.0,4
+nova padua,13.0,0.0,1
+nova palma,11.5,0.0,2
+nova petropolis,16.333333333333332,0.1111111111111111,8
+nova ponte,11.7,0.1,9
+nova prata,10.529411764705882,0.0,16
+nova prata do iguacu,21.428571428571427,0.2857142857142857,6
+nova redencao,32.0,1.0,1
+nova resende,12.0,0.0,1
+nova roma,17.0,0.0,1
+nova roma do sul,9.0,0.0,1
+nova russas,20.142857142857142,0.14285714285714285,7
+nova santa barbara,11.0,0.0,1
+nova santa rita,13.857142857142858,0.0,6
+nova santa rosa,7.25,0.0,4
+nova serrana,13.017857142857142,0.07142857142857142,49
+nova soure,9.0,0.0,3
+nova timboteua,18.0,0.0,1
+nova trento,9.833333333333334,0.0,6
+nova ubirata,12.0,0.0,1
+nova venecia,12.578947368421053,0.05263157894736842,19
+nova veneza,20.857142857142858,0.2857142857142857,7
+nova vicosa,24.0,0.0,1
+nova xavantina,15.272727272727273,0.0,10
+novais,9.0,0.0,1
+novo alegre,20.0,0.0,1
+novo barreiro,11.5,0.0,2
+novo cabrais,19.0,0.0,1
+novo cruzeiro,12.11111111111111,0.0,9
+novo gama,16.692307692307693,0.15384615384615385,13
+novo hamburgo,13.36734693877551,0.061224489795918366,121
+novo horizonte,9.789473684210526,0.05263157894736842,17
+novo itacolomi,12.0,0.0,1
+novo jardim,21.0,1.0,1
+novo lino,14.0,0.0,1
+novo machado,11.0,0.0,1
+novo mundo,17.0,0.0,1
+novo oriente,16.0,0.0,3
+novo oriente do piaui,17.0,0.0,2
+novo planalto,11.0,0.0,1
+novo progresso,32.57142857142857,0.0,5
+novo repartimento,15.5,0.0,2
+novo sao joaquim,14.333333333333334,0.0,3
+nucleo residencial pilar,29.555555555555557,0.2222222222222222,8
+nuporanga,9.333333333333334,0.0,3
+ocara,29.5,0.5,2
+ocaucu,10.4,0.0,5
+oeiras,14.166666666666666,0.0,6
+oeiras do para,21.5,0.0,2
+oiapoque,30.0,1.0,1
+olaria,10.0,0.0,1
+oleo,9.0,0.0,1
+olho d'agua das cunhas,14.5,0.0,2
+olho d'agua das flores,21.666666666666668,0.3333333333333333,3
+olhos d'agua,22.0,0.0,1
+olimpia,9.775,0.05,36
+olinda,20.585106382978722,0.1595744680851064,89
+olindina,19.5,0.0,2
+oliveira,11.818181818181818,0.09090909090909091,22
+oliveira dos brejinhos,24.0,0.5,2
+onda verde,8.0,0.0,1
+oriente,6.75,0.0,3
+orindiuva,11.8,0.0,5
+orizania,14.0,0.0,1
+orizona,19.166666666666668,0.16666666666666666,6
+orlandia,10.11111111111111,0.0,28
+orleans,9.75,0.0,8
+orobo,23.0,0.0,1
+oroco,24.333333333333332,0.3333333333333333,3
+oros,15.5,0.0,2
+ortigueira,8.875,0.0,8
+osasco,7.042117930204573,0.044524669073405534,724
+oscar bressane,7.666666666666667,0.0,3
+osorio,13.097560975609756,0.0,35
+osvaldo cruz,8.761904761904763,0.0,16
+osvaldo kroeff,20.0,0.0,1
+otacilio costa,19.666666666666668,0.16666666666666666,5
+ourem,57.0,1.0,1
+ouricuri,18.375,0.125,8
+ourilandia do norte,21.571428571428573,0.0,5
+ourinhos,9.308510638297872,0.0425531914893617,77
+ourizona,19.0,0.0,1
+ouro,16.0,0.0,1
+ouro branco,12.266666666666667,0.08888888888888889,41
+ouro fino,10.782608695652174,0.043478260869565216,16
+ouro preto,13.390625,0.0625,55
+ouro preto do oeste,18.0,0.0,4
+ouro verde,8.333333333333334,0.0,3
+ouro verde de goias,7.0,0.0,1
+ouro verde de minas,14.5,0.0,2
+ouro verde do oeste,9.0,0.0,1
+ouroeste,11.307692307692308,0.07692307692307693,11
+ouvidor,13.0,0.0,1
+pacaembu,8.333333333333334,0.0,6
+pacaja,25.333333333333332,0.16666666666666666,6
+pacajus,26.0,0.2857142857142857,6
+pacatuba,15.8,0.0,5
+paco do lumiar,25.0,0.2857142857142857,7
+pacoti,27.0,0.0,2
+pacotuba,30.0,1.0,1
+pacuja,18.0,0.0,1
+padre bernardo,19.0,0.25,4
+padre carvalho,19.0,0.0,1
+padre gonzales,13.0,0.0,1
+padre paraiso,18.0,0.0,1
+paial,16.0,0.0,1
+paicandu,12.2,0.0,10
+paineiras,7.0,0.0,1
+pains,12.333333333333334,0.0,3
+paiva,17.5,0.0,2
+palestina,8.2,0.0,10
+palhano,17.0,0.0,1
+palhoca,16.394495412844037,0.12844036697247707,90
+palma,7.0,0.0,4
+palma sola,14.5,0.0,4
+palmares,14.75,0.0,8
+palmares do sul,13.4,0.0,5
+palmares paulista,7.0,0.0,1
+palmas,15.317829457364342,0.13178294573643412,107
+palmeira,13.875,0.125,15
+palmeira d oeste,8.0,0.0,1
+palmeira d'oeste,12.6,0.0,5
+palmeira das missoes,11.941176470588236,0.0,16
+palmeira dos indios,23.125,0.125,8
+palmeiras,22.0,0.0,2
+palmeiras de goias,24.333333333333332,0.3333333333333333,3
+palmeirinha,18.5,0.0,2
+palminopolis,12.0,0.0,1
+palmital,11.095238095238095,0.047619047619047616,19
+palmitinho,14.0,0.0,5
+palmitos,10.4,0.2,5
+palmopolis,15.0,0.0,1
+palotina,13.2,0.1,10
+panambi,16.63157894736842,0.05263157894736842,17
+pancas,17.0,0.0,1
+panelas,17.5,0.0,2
+panorama,14.0,0.0,5
+pantano grande,15.0,0.0,3
+papagaios,12.6,0.0,4
+papanduva,13.1,0.0,8
+papucaia,12.0,0.09090909090909091,10
+para de minas,12.024390243902438,0.04878048780487805,37
+paracambi,13.944444444444445,0.1111111111111111,35
+paracatu,11.263157894736842,0.05263157894736842,62
+paracuru,25.0,0.25,4
+paragominas,22.473684210526315,0.10526315789473684,18
+paraguacu,14.277777777777779,0.0,12
+paraguacu paulista,8.65,0.0,20
+parai,14.333333333333334,0.0,3
+paraiba do sul,13.9,0.15,18
+paraibano,24.75,0.0,3
+paraibuna,11.090909090909092,0.09090909090909091,10
+paraipaba,23.6,0.2,5
+paraiso,9.833333333333334,0.0,6
+paraiso das aguas,14.0,0.0,1
+paraiso do norte,18.0,0.0,3
+paraiso do sul,8.0,0.0,1
+paraiso do tocantins,13.181818181818182,0.0,10
+paraisopolis,12.75,0.0,15
+paraju,27.0,1.0,1
+parambu,14.0,0.0,4
+paramirim,19.714285714285715,0.14285714285714285,5
+parana,29.0,1.0,2
+paranacity,13.333333333333334,0.0,3
+paranagua,11.850746268656716,0.07462686567164178,58
+paranaiba,11.933333333333334,0.0,14
+paranaiguara,13.333333333333334,0.0,3
+paranaita,16.0,0.0,4
+paranapanema,14.538461538461538,0.07692307692307693,11
+paranapoema,19.0,0.0,1
+paranapua,8.5,0.0,2
+paranatinga,11.666666666666666,0.0,2
+paranavai,12.142857142857142,0.05357142857142857,45
+paranhos,14.0,0.0,1
+paraopeba,14.11111111111111,0.1111111111111111,9
+parapua,7.666666666666667,0.0,8
+parati,13.0,0.07142857142857142,13
+paraty,17.391304347826086,0.17391304347826086,19
+parauapebas,24.970588235294116,0.20588235294117646,27
+parauna,12.0,0.0,4
+pardinho,14.0,0.0,1
+pareci novo,9.0,0.0,1
+parelhas,13.75,0.0,4
+paripiranga,20.5,0.0,2
+paripueira,26.0,0.0,1
+pariquera-acu,11.0625,0.125,15
+parisi,12.0,0.0,1
+parnaiba,15.32,0.0,22
+parnamirim,16.058823529411764,0.058823529411764705,61
+parnarama,19.0,0.0,1
+parobe,10.166666666666666,0.0,12
+passa quatro,10.7,0.0,9
+passa tempo,7.0,0.0,1
+passa tres,20.5,0.5,2
+passagem,23.0,0.0,1
+passagem franca,20.0,0.0,1
+passira,50.0,1.0,1
+passo de camaragibe,18.0,0.0,1
+passo de torres,18.142857142857142,0.2857142857142857,7
+passo fundo,13.3671875,0.0390625,112
+passos,12.021739130434783,0.0,43
+passos maia,16.0,0.0,2
+pastos bons,18.0,0.0,2
+patis,23.0,0.0,1
+pato bragado,19.0,0.0,2
+pato branco,11.303030303030303,0.015151515151515152,53
+patos,16.352941176470587,0.0,16
+patos de minas,11.689320388349515,0.05825242718446602,99
+patrocinio,11.563636363636364,0.03636363636363636,45
+patrocinio do muriae,21.5,0.5,2
+patrocinio paulista,17.0,0.0,2
+patu,18.666666666666668,0.0,3
+paty do alferes,15.9,0.1,13
+pau brasil,21.0,0.0,1
+pau d'arco,28.0,0.0,1
+pau dos ferros,18.88888888888889,0.2222222222222222,9
+paudalho,22.5,0.0,2
+paula candido,22.0,0.0,1
+paula freitas,12.0,0.0,1
+pauliceia,9.4,0.0,2
+paulinia,8.24113475177305,0.07801418439716312,126
+paulista,18.4,0.12,42
+paulistana,14.75,0.0,3
+paulistania,8.0,0.0,1
+paulo afonso,18.733333333333334,0.06666666666666667,39
+paulo de faria,9.857142857142858,0.0,5
+paulo frontin,9.5,0.0,5
+paulo jacinto,14.0,0.0,2
+paulo lopes,17.0,0.0,2
+pavao,8.0,0.0,1
+peabiru,19.0,0.25,4
+pecanha,15.0,0.0,4
+pederneiras,9.041666666666666,0.0,21
+pedra,31.0,0.3333333333333333,3
+pedra azul,19.8,0.2,5
+pedra bela,3.5,0.0,2
+pedra branca,23.0,0.3333333333333333,3
+pedra do indaia,12.0,0.0,1
+pedra lavrada,39.0,1.0,1
+pedra menina,14.0,0.0,1
+pedra preta,18.333333333333332,0.16666666666666666,5
+pedralva,9.0,0.0,3
+pedranopolis,7.0,0.0,1
+pedrao,13.0,0.0,1
+pedras altas,17.0,0.0,1
+pedras de fogo,23.0,0.5,2
+pedregulho,15.666666666666666,0.0,2
+pedreira,8.897435897435898,0.05128205128205128,36
+pedreiras,14.75,0.0,3
+pedrinhas paulista,12.25,0.0,4
+pedrinopolis,10.6,0.0,3
+pedro afonso,18.333333333333332,0.0,3
+pedro canario,17.8,0.2,5
+pedro de toledo,12.4,0.0,8
+pedro gomes,16.0,0.0,1
+pedro ii,13.0,0.0,1
+pedro leopoldo,9.1,0.02,40
+pedro osorio,14.0,0.0,3
+pedro velho,23.0,0.0,1
+peixe,20.0,0.0,1
+peixoto de azevedo,15.0,0.0,4
+pejucara,13.666666666666666,0.0,4
+pelotas,16.2512077294686,0.057971014492753624,183
+penaforte,21.5,0.0,2
+penapolis,7.6875,0.0,37
+pendencias,18.5,0.0,2
+penedo,19.77777777777778,0.1111111111111111,9
+penha,16.125,0.0625,15
+pentecoste,13.5,0.0,2
+pequi,6.0,0.0,1
+pequizeiro,15.0,0.0,1
+perdigao,12.833333333333334,0.0,6
+perdizes,10.666666666666666,0.0,7
+perdoes,9.4,0.0,9
+pereira barreto,11.88888888888889,0.0,18
+pereiras,8.0,0.0,1
+pereiro,19.666666666666668,0.0,3
+peri mirim,12.0,0.0,1
+periquito,8.5,0.0,2
+peritiba,13.0,0.0,2
+perobal,28.0,0.0,1
+perola,16.0,0.0,2
+perola d'oeste,17.5,0.0,2
+perola independente,23.0,0.0,1
+perpetuo socorro,10.0,0.0,2
+peruibe,13.619047619047619,0.031746031746031744,43
+pescador,24.0,1.0,1
+pesqueira,15.666666666666666,0.1111111111111111,9
+petrolandia,13.0,0.0,14
+petrolina,16.296875,0.046875,62
+petropolis,14.582733812949641,0.12589928057553956,234
+piacabucu,18.5,0.0,2
+piacatu,8.0,0.0,1
+piacu,25.0,0.0,1
+pianco,27.0,0.0,1
+piata,25.333333333333332,0.3333333333333333,2
+piau,7.0,0.0,2
+picada cafe,8.0,0.0,1
+picarra,12.0,0.0,1
+picarras,24.0,1.0,1
+picos,18.42105263157895,0.10526315789473684,17
+picui,18.5,0.5,2
+piedade,12.583333333333334,0.16666666666666666,22
+piedade de caratinga,14.625,0.0,7
+piedade do rio grande,20.0,0.5,3
+piedade dos gerais,7.333333333333333,0.0,3
+pien,16.75,0.25,4
+pilao arcado,15.5,0.0,4
+pilar,27.75,0.25,4
+pilar do sul,8.928571428571429,0.07142857142857142,12
+pimenta,10.0,0.0,2
+pimenta bueno,20.857142857142858,0.0,7
+pimenteiras,9.0,0.0,2
+pindai,23.0,0.0,2
+pindamonhangaba,11.009708737864077,0.05825242718446602,97
+pindare mirim,20.0,0.3333333333333333,3
+pindoba,11.5,0.0,2
+pindobacu,16.333333333333332,0.0,3
+pindorama,8.0,0.0,2
+pindorama do tocantins,14.0,0.0,2
+pindoretama,14.0,0.0,1
+pingo-d'agua,7.0,0.0,1
+pinhais,9.835616438356164,0.0273972602739726,66
+pinhal da serra,13.0,0.0,1
+pinhalao,8.428571428571429,0.0,7
+pinhalzinho,13.222222222222221,0.07407407407407407,21
+pinhao,13.8,0.2,9
+pinheiral,16.0,0.06666666666666667,14
+pinheiro,19.25,0.25,4
+pinheiro machado,13.8,0.0,5
+pinheiros,8.777777777777779,0.0,9
+pinhotiba,20.0,0.0,1
+pintadas,17.0,0.0,2
+pio ix,33.0,1.0,1
+pio xii,15.0,0.0,1
+piquerobi,4.0,0.0,1
+piquete,7.666666666666667,0.0,9
+piracaia,10.25,0.041666666666666664,21
+piracanjuba,15.0,0.09090909090909091,10
+piracema,20.0,0.0,1
+piracicaba,7.165841584158416,0.022277227722772276,356
+piracuruca,20.0,0.0,2
+pirai,17.736842105263158,0.15789473684210525,15
+pirai do norte,24.0,0.0,1
+pirai do sul,9.142857142857142,0.0,6
+piraju,8.541666666666666,0.0,17
+pirajuba,23.0,0.0,1
+pirajui,7.6875,0.0,12
+pirambu,21.0,0.0,1
+piranga,13.25,0.25,4
+pirangi,10.285714285714286,0.0,7
+piranguinho,15.545454545454545,0.09090909090909091,9
+piranhas,12.75,0.0,4
+pirapetinga,11.0,0.0,7
+pirapo,19.0,0.0,1
+pirapora,10.142857142857142,0.02040816326530612,42
+pirapora do bom jesus,6.117647058823529,0.058823529411764705,16
+pirapozinho,9.066666666666666,0.0,14
+piraquara,10.882352941176471,0.058823529411764705,14
+pirassununga,10.945945945945946,0.0945945945945946,69
+piratini,23.0,0.0,1
+piratininga,9.777777777777779,0.0,8
+piratuba,12.6,0.2,5
+pirauba,7.666666666666667,0.0,3
+pirenopolis,17.25,0.0,4
+pires do rio,16.058823529411764,0.058823529411764705,12
+pires ferreira,25.0,0.0,1
+piripa,19.0,0.5,2
+piripiri,16.142857142857142,0.0,7
+piritiba,14.666666666666666,0.0,5
+pirpirituba,19.0,0.0,1
+pitanga,12.0,0.0,3
+pitanga de estrada,21.0,0.0,1
+pitangueiras,9.411764705882353,0.058823529411764705,16
+pitangui,11.6,0.04,22
+pitimbu,11.0,0.0,1
+pium,13.0,0.0,1
+piuma,12.789473684210526,0.10526315789473684,17
+piumhi,7.25,0.0,3
+piumhii,10.933333333333334,0.06666666666666667,28
+placas,55.5,1.0,2
+planaltina,14.0,0.09090909090909091,10
+planaltina de goias,9.5,0.0,2
+planaltina do parana,14.0,0.0,1
+planaltino,21.0,0.0,1
+planalto,12.444444444444445,0.0,9
+planura,8.5,0.0,2
+poa,6.83,0.02,85
+pocao,23.0,0.0,1
+pocao de pedras,27.0,0.0,1
+pocinhos,21.75,0.0,3
+poco de pedra,31.0,1.0,1
+poco fundo,14.11111111111111,0.0,8
+poco redondo,9.0,0.0,1
+poco verde,23.75,0.25,4
+pocoes,15.0,0.0,2
+pocoes de paineiras,12.0,0.0,1
+pocos de caldas,12.10344827586207,0.06896551724137931,116
+pocrane,15.0,0.3333333333333333,3
+pojuca,15.285714285714286,0.0,13
+polo petroquimico de triunfo,33.0,1.0,1
+poloni,11.333333333333334,0.0,3
+pombal,18.285714285714285,0.0,6
+pombos,31.0,1.0,1
+pomerode,9.272727272727273,0.0,9
+pompeia,12.291666666666666,0.0,17
+pompeu,12.307692307692308,0.07692307692307693,11
+pongai,11.0,0.0,4
+ponta grossa,11.62962962962963,0.05555555555555555,141
+ponta pora,13.956521739130435,0.08695652173913043,18
+pontal,9.142857142857142,0.0,12
+pontal do parana,12.25,0.0,8
+pontalina,12.5,0.0,2
+pontalinda,10.5,0.5,2
+pontao,19.0,0.0,1
+ponte alta do norte,8.0,0.0,1
+ponte nova,11.782608695652174,0.021739130434782608,39
+ponte serrada,13.0,0.0,3
+pontes e lacerda,14.222222222222221,0.0,9
+pontes gestal,13.0,0.0,1
+ponto belo,8.0,0.0,1
+ponto do marambaia,15.0,0.0,1
+ponto dos volantes,15.0,0.0,2
+ponto novo,32.0,0.0,1
+populina,10.0,0.0,1
+porangaba,7.5,0.0,2
+porangatu,13.928571428571429,0.0,13
+porciuncula,13.3,0.0,8
+porecatu,14.444444444444445,0.0,9
+portalegre,40.333333333333336,0.0,2
+portao,12.090909090909092,0.0,10
+porteiras,9.0,0.0,1
+porteirinha,19.8,0.2,5
+portela,28.0,1.0,1
+portelandia,16.0,0.0,2
+porto acre,28.0,0.0,1
+porto alegre,15.438295165394402,0.11450381679389313,1341
+porto alegre do norte,21.0,0.0,1
+porto amazonas,9.5,0.0,2
+porto belo,12.555555555555555,0.0,9
+porto calvo,25.5,0.0,2
+porto de pedras,7.0,0.0,1
+porto esperidiao,32.5,0.5,2
+porto estrela,9.0,0.0,1
+porto feliz,8.08,0.0,21
+porto ferreira,8.483870967741936,0.0967741935483871,26
+porto firme,8.0,0.0,2
+porto franco,32.0,0.5,2
+porto grande,22.0,0.0,1
+porto lucena,17.0,0.0,1
+porto murtinho,12.0,0.0,1
+porto nacional,12.444444444444445,0.0,8
+porto real,29.75,0.5,7
+porto rico,7.0,0.0,1
+porto seguro,20.02,0.22,39
+porto trombetas,27.0,0.0,2
+porto uniao,14.642857142857142,0.0,14
+porto velho,18.598360655737704,0.040983606557377046,108
+porto xavier,12.142857142857142,0.0,5
+posse,17.647058823529413,0.11764705882352941,15
+posto da mata,14.0,0.0,4
+pote,8.333333333333334,0.0,3
+potengi,19.5,0.0,2
+potim,8.0,0.0,2
+potiragua,15.0,0.0,7
+potirendaba,9.666666666666666,0.0,8
+pouso alegre,11.393103448275863,0.08275862068965517,128
+pouso alto,11.333333333333334,0.0,3
+pouso novo,18.0,0.0,1
+pouso redondo,12.0,0.0,3
+poxoreu,13.5,0.0,2
+prado,10.4,0.0,5
+pradopolis,8.583333333333334,0.0,10
+prados,9.666666666666666,0.0,3
+praia grande,10.002898550724638,0.08985507246376812,301
+praia norte,29.0,0.0,1
+pranchita,20.0,0.0,1
+prata,11.0,0.0,11
+pratapolis,13.0,0.0,1
+presidente alves,7.5,0.0,2
+presidente bernardes,11.8,0.0,5
+presidente castello branco,16.0,0.0,1
+presidente dutra,22.928571428571427,0.21428571428571427,13
+presidente epitacio,9.653846153846153,0.038461538461538464,23
+presidente getulio,15.5,0.3333333333333333,6
+presidente janio quadros,12.0,0.0,1
+presidente juscelino,23.0,0.0,1
+presidente kennedy,11.0,0.0,2
+presidente kubitschek,16.0,0.0,2
+presidente lucena,19.0,0.0,1
+presidente medici,13.0,0.0,3
+presidente nereu,15.0,0.0,1
+presidente olegario,11.666666666666666,0.0,6
+presidente prudente,11.095505617977528,0.06741573033707865,157
+presidente tancredo neves,20.5,0.25,4
+presidente venceslau,9.866666666666667,0.13333333333333333,22
+primavera,15.9,0.1,9
+primavera do leste,18.096774193548388,0.0,28
+primeiro de maio,15.0,0.0,7
+princesa isabel,13.0,0.0,1
+progresso,18.0,0.0,1
+promissao,9.774193548387096,0.06451612903225806,31
+propria,15.0,0.0,3
+protasio alves,16.5,0.0,2
+prudencio thomaz,20.0,0.0,1
+prudente de morais,13.0,0.0,2
+prudentopolis,9.625,0.0,7
+pugmil,36.0,1.0,1
+pureza,12.0,0.0,1
+purilandia,23.0,0.0,1
+putinga,23.5,0.0,2
+puxinana,21.0,0.0,1
+quadra,9.5,0.0,2
+quarai,15.75,0.0,4
+quata,9.692307692307692,0.0,12
+quatigua,10.2,0.0,5
+quatis,10.833333333333334,0.0,5
+quatituba,7.0,0.0,1
+quatro barras,9.333333333333334,0.047619047619047616,18
+quatro bocas,20.4,0.0,5
+quatro pontes,11.0,0.0,1
+quedas do iguacu,10.88888888888889,0.0,8
+queimadas,16.9,0.0,9
+queimados,10.63076923076923,0.03076923076923077,53
+queiroz,6.0,0.0,1
+queixada,26.0,1.0,1
+queluz,16.0,0.0,2
+querencia,16.818181818181817,0.0,10
+querencia do norte,19.0,0.0,1
+quevedos,20.5,0.0,2
+quijingue,18.5,0.5,2
+quilombo,11.0,0.0,4
+quilometro 14 do mutum,15.0,0.0,1
+quinta do sol,15.666666666666666,0.0,3
+quintana,10.0,0.0,3
+quipapa,12.0,0.0,1
+quirinopolis,18.4375,0.125,14
+quissama,12.076923076923077,0.0,11
+quitandinha,5.0,0.0,2
+quixabeira,10.6,0.0,3
+quixada,21.615384615384617,0.07692307692307693,13
+quixelo,12.5,0.0,2
+quixeramobim,19.0,0.16666666666666666,6
+quixere,27.5,0.5,2
+rafard,13.0,0.16666666666666666,5
+rainha do mar,32.0,1.0,1
+rancharia,11.173913043478262,0.08695652173913043,21
+rancho alegre,8.0,0.0,1
+rancho alegre d'oeste,17.0,0.0,1
+rancho queimado,16.0,0.0,2
+raposo,34.25,1.0,3
+raposos,7.529411764705882,0.0,11
+raul soares,16.357142857142858,0.07142857142857142,12
+ravena,7.0,0.0,1
+realeza,9.125,0.0,6
+reboucas,10.857142857142858,0.0,6
+rechan,25.5,1.0,2
+recife,17.509923664122137,0.1251908396946565,592
+recreio,12.666666666666666,0.0,3
+redencao,27.705882352941178,0.29411764705882354,16
+redencao da serra,12.0,0.0,1
+redencao do gurgueia,20.0,0.0,1
+redentora,15.0,0.0,3
+regeneracao,15.5,0.0,6
+regente feijo,10.307692307692308,0.0,10
+reginopolis,9.333333333333334,0.0,3
+registro,10.591836734693878,0.02040816326530612,45
+remanso,17.8,0.2,5
+remigio,6.0,0.0,1
+renascenca,13.75,0.0,4
+reriutaba,28.666666666666668,0.3333333333333333,3
+resende,16.177777777777777,0.17777777777777778,115
+resende costa,12.333333333333334,0.3333333333333333,3
+reserva,11.0,0.0,3
+reserva do cabacal,18.5,0.0,2
+reserva do iguacu,16.0,0.0,1
+resplendor,8.7,0.0,10
+ressaquinha,6.0,0.0,1
+restinga seca,9.666666666666666,0.0,3
+retirolandia,14.0,0.0,1
+riachao das neves,15.5,0.0,2
+riachao do jacuipe,13.4,0.2,5
+riachinho,12.5,0.0,2
+riacho da cruz,15.0,0.0,1
+riacho das almas,13.0,0.0,2
+riacho de santana,20.0,0.2,4
+riacho de santo antonio,45.0,0.0,1
+riacho dos machados,9.333333333333334,0.0,3
+riachuelo,13.0,0.0,1
+rianapolis,26.5,0.25,4
+ribas do rio pardo,12.0,0.0,1
+ribeira,11.0,0.0,3
+ribeira do amparo,19.0,0.0,1
+ribeira do pombal,18.25,0.125,8
+ribeirao,21.75,0.0,4
+ribeirao bonito,20.0,0.14285714285714285,7
+ribeirao branco,14.5,0.5,2
+ribeirao cascalheira,25.0,0.0,1
+ribeirao claro,14.714285714285714,0.0,5
+ribeirao das neves,11.059322033898304,0.05084745762711865,98
+ribeirao do pinhal,12.0,0.0,5
+ribeirao do sul,6.0,0.0,3
+ribeirao pires,7.991596638655462,0.04201680672268908,106
+ribeirao preto,9.183887915936953,0.03327495621716287,499
+ribeirao vermelho,10.0,0.0,2
+ribeiraozinho,15.5,0.0,2
+ribeiro junqueira,43.0,1.0,1
+ribeiropolis,17.0,0.0,1
+rifaina,5.0,0.0,2
+rincao,10.0,0.0,1
+rinopolis,6.5,0.0,2
+rio acima,10.444444444444445,0.0,8
+rio azul,13.6,0.2,5
+rio bananal,13.0,0.2,4
+rio bonito,13.482758620689655,0.06896551724137931,27
+rio bonito do iguacu,11.25,0.0,4
+rio branco,19.725,0.0375,72
+rio branco do sul,12.166666666666666,0.0,6
+rio brilhante,12.909090909090908,0.09090909090909091,11
+rio casca,9.333333333333334,0.0,5
+rio claro,7.721311475409836,0.03278688524590164,154
+rio das antas,20.0,0.0,2
+rio das flores,19.0,0.3333333333333333,6
+rio das ostras,17.899328859060404,0.19463087248322147,129
+rio das pedras,9.272727272727273,0.09090909090909091,10
+rio de contas,10.666666666666666,0.0,3
+rio de janeiro,14.121327888288763,0.11276511658543012,6600
+rio do antonio,10.333333333333334,0.0,2
+rio do campo,11.833333333333334,0.0,4
+rio do oeste,15.666666666666666,0.0,3
+rio do pires,22.4,0.2,4
+rio do sul,13.86046511627907,0.11627906976744186,35
+rio doce,19.0,0.0,1
+rio dos cedros,20.0,0.0,1
+rio dos indios,11.0,0.0,1
+rio espera,7.0,0.0,1
+rio formoso,18.0,0.0,2
+rio fortuna,11.666666666666666,0.0,3
+rio grande,16.085271317829456,0.12403100775193798,121
+rio grande da serra,7.461538461538462,0.038461538461538464,25
+rio grande do piaui,13.0,0.0,1
+rio largo,19.5,0.16666666666666666,6
+rio manso,10.2,0.0,5
+rio maria,21.333333333333332,0.0,3
+rio negrinho,12.214285714285714,0.07142857142857142,13
+rio negro,11.533333333333333,0.13333333333333333,15
+rio novo,7.75,0.0,4
+rio novo do sul,18.285714285714285,0.0,6
+rio paranaiba,8.166666666666666,0.0,9
+rio pardo,15.2,0.0,5
+rio pardo de minas,12.666666666666666,0.0,5
+rio piracicaba,10.75,0.0,4
+rio pomba,19.0,0.14285714285714285,6
+rio preto,13.75,0.0,4
+rio real,15.0,0.0,3
+rio rufino,6.0,0.0,1
+rio tinto,29.5,0.5,2
+rio verde,14.157303370786517,0.02247191011235955,63
+riolandia,5.666666666666667,0.0,3
+riqueza,14.333333333333334,0.0,3
+ritapolis,9.0,0.0,3
+riversul,9.0,0.0,1
+roca sales,5.5,0.0,2
+rodeio,11.75,0.0,7
+rodeio bonito,17.333333333333332,0.0,2
+rodeiro,11.333333333333334,0.0,3
+rodelas,15.0,0.0,3
+rodolfo fernandes,28.5,0.5,2
+rolandia,11.0,0.0,24
+rolante,12.666666666666666,0.1111111111111111,9
+rolim de moura,16.571428571428573,0.0,7
+romaria,13.0,0.0,2
+romelandia,13.0,0.0,1
+roncador,13.5,0.0,2
+ronda alta,25.454545454545453,0.09090909090909091,6
+rondon,7.0,0.0,2
+rondon do para,29.76923076923077,0.0,9
+rondonopolis,16.416666666666668,0.06944444444444445,64
+roque gonzales,11.6,0.0,5
+rosana,11.25,0.0,4
+rosario,16.0,0.0,1
+rosario do ivai,15.0,0.0,1
+rosario do sul,16.047619047619047,0.14285714285714285,14
+roseira,6.4,0.0,5
+rubelita,16.0,0.0,1
+rubiacea,6.5,0.0,2
+rubiataba,10.4,0.0,7
+rubim,13.333333333333334,0.3333333333333333,3
+rubineia,63.0,1.0,1
+russas,18.363636363636363,0.09090909090909091,9
+ruy barbosa,16.875,0.0,7
+sabara,9.022727272727273,0.022727272727272728,42
+sabaudia,12.0,0.0,1
+sabino,8.0,0.0,3
+sabinopolis,11.2,0.0,5
+saboeiro,21.0,0.0,1
+sacra familia do tingua,7.0,0.0,1
+sacramento,12.571428571428571,0.0,13
+sales,10.0,0.0,5
+sales oliveira,12.0,0.0,6
+salesopolis,9.666666666666666,0.08333333333333333,10
+salgado filho,20.0,0.25,3
+salgueiro,14.058823529411764,0.058823529411764705,17
+salinas,11.714285714285714,0.07142857142857142,22
+salinas da margarida,28.0,0.0,1
+salmourao,7.5,0.0,2
+saloa,14.75,0.0,3
+salobro,20.0,0.0,1
+saltinho,6.285714285714286,0.0,5
+salto,7.135416666666667,0.03125,88
+salto da divisa,11.5,0.0,2
+salto de pirapora,12.538461538461538,0.15384615384615385,12
+salto do ceu,15.5,0.0,2
+salto do itarare,10.0,0.0,1
+salto do jacui,12.4,0.0,4
+salto do lontra,19.857142857142858,0.14285714285714285,4
+salto grande,5.0,0.0,1
+salto veloso,15.25,0.0,4
+salvador,18.477138643067846,0.1696165191740413,1186
+salvador do sul,8.0,0.0,1
+sambaiba,36.0,0.0,1
+sananduva,15.166666666666666,0.16666666666666666,6
+sanclerlandia,11.6,0.0,4
+sandolandia,16.0,0.0,1
+sanga puita,27.0,0.0,1
+sangao,20.666666666666668,0.3333333333333333,3
+sanharo,26.25,0.0,3
+santa adelia,10.75,0.0625,15
+santa albertina,5.777777777777778,0.0,7
+santa amelia,22.0,0.0,1
+santa barbara,12.4,0.1,25
+santa barbara d oeste,10.0,0.0,4
+santa barbara d'oeste,7.533333333333333,0.037037037037037035,118
+santa barbara do para,21.0,0.0,1
+santa barbara do sul,26.5,0.5,2
+santa branca,13.0,0.1111111111111111,9
+santa brigida,20.0,0.0,1
+santa cecilia,20.2,0.0,5
+santa cecilia do pavao,15.0,0.0,1
+santa clara d'oeste,13.0,0.0,1
+santa clara do sul,11.0,0.0,2
+santa cruz,25.833333333333332,0.16666666666666666,6
+santa cruz cabralia,22.4,0.2,5
+santa cruz da conceicao,11.25,0.25,4
+santa cruz das palmeiras,10.88888888888889,0.0,9
+santa cruz de goias,10.0,0.0,1
+santa cruz de minas,13.4,0.0,5
+santa cruz de monte castelo,12.0,0.0,4
+santa cruz de salinas,31.5,0.5,2
+santa cruz do capibaribe,16.642857142857142,0.0,11
+santa cruz do piaui,12.0,0.0,1
+santa cruz do prata,20.0,0.5,2
+santa cruz do rio pardo,8.513513513513514,0.02702702702702703,34
+santa cruz do sul,15.1625,0.075,62
+santa cruz do timbo,12.0,0.0,1
+santa ernestina,9.5,0.0,2
+santa fe,18.4,0.2,5
+santa fe de goias,17.5,0.0,4
+santa fe de minas,9.0,0.0,1
+santa fe do sul,11.176470588235293,0.058823529411764705,34
+santa filomena,15.0,0.0,1
+santa gertrudes,11.153846153846153,0.07692307692307693,11
+santa helena,15.23076923076923,0.07692307692307693,12
+santa helena de goias,11.3,0.0,9
+santa helena de minas,6.333333333333333,0.0,2
+santa ines,24.11111111111111,0.4444444444444444,15
+santa isabel,7.32258064516129,0.0,28
+santa isabel do ivai,9.0,0.0,3
+santa isabel do para,16.714285714285715,0.0,6
+santa isabel do rio preto,10.0,0.0,1
+santa izabel do oeste,12.0,0.0,2
+santa juliana,10.11111111111111,0.1111111111111111,8
+santa leopoldina,10.0,0.0,1
+santa lucia,7.75,0.0,4
+santa luzia,11.936363636363636,0.05454545454545454,96
+santa luzia do norte,17.0,0.0,1
+santa luzia do parua,13.0,0.0,1
+santa margarida,13.333333333333334,0.0,3
+santa maria,15.589519650655022,0.07423580786026202,195
+santa maria da boa vista,15.0,0.0,2
+santa maria da serra,6.0,0.0,2
+santa maria da vitoria,18.733333333333334,0.13333333333333333,13
+santa maria de itabira,17.0,0.4,4
+santa maria de jetiba,12.55,0.05,15
+santa maria do herval,14.0,0.0,1
+santa maria do para,25.0,0.0,2
+santa maria do salto,12.0,0.0,1
+santa maria do suacui,18.5,0.0,2
+santa maria madalena,13.857142857142858,0.14285714285714285,7
+santa mariana,9.75,0.0,4
+santa mercedes,11.0,0.0,2
+santa monica,7.666666666666667,0.0,2
+santa quiteria,15.6,0.0,5
+santa quiteria do maranhao,33.0,1.0,1
+santa rita,16.428571428571427,0.0,7
+santa rita d'oeste,8.333333333333334,0.0,3
+santa rita da floresta,21.0,0.0,1
+santa rita de caldas,11.428571428571429,0.0,6
+santa rita de jacutinga,7.0,0.0,1
+santa rita de minas,15.333333333333334,0.0,3
+santa rita do araguaia,14.857142857142858,0.0,7
+santa rita do ibitipoca,12.0,0.0,2
+santa rita do itueto,13.0,0.0,1
+santa rita do passa quatro,8.409090909090908,0.0,18
+santa rita do sapucai,15.605263157894736,0.21052631578947367,35
+santa rosa,14.457142857142857,0.02857142857142857,32
+santa rosa de lima,13.0,0.0,3
+santa rosa de viterbo,8.823529411764707,0.0,13
+santa rosa do sul,34.0,1.0,1
+santa salete,11.0,0.0,1
+santa teresa,17.818181818181817,0.36363636363636365,10
+santa teresinha,13.0,0.0,2
+santa tereza do oeste,9.333333333333334,0.0,3
+santa terezinha,31.0,0.5,2
+santa terezinha de itaipu,12.333333333333334,0.0,3
+santa vitoria,11.294117647058824,0.058823529411764705,17
+santa vitoria do palmar,16.133333333333333,0.0,12
+santaluz,16.5,0.0,2
+santana,19.333333333333332,0.05555555555555555,13
+santana da boa vista,15.5,0.0,2
+santana da vargem,16.5,0.25,4
+santana de parnaiba,6.84390243902439,0.04878048780487805,178
+santana de pirapama,13.0,0.0,1
+santana do acarau,17.25,0.0,4
+santana do araguaia,18.0,0.0,2
+santana do capivari,13.0,0.0,1
+santana do cariri,20.666666666666668,0.0,3
+santana do deserto,16.0,0.0,1
+santana do ipanema,24.0,0.0,1
+santana do itarare,17.0,0.0,1
+santana do jacare,20.25,0.25,4
+santana do livramento,13.0,0.0,20
+santana do manhuacu,6.666666666666667,0.0,3
+santana do mundau,12.75,0.0,3
+santana do paraiso,10.947368421052632,0.10526315789473684,16
+santana do serido,9.333333333333334,0.0,2
+santana do sobrado,24.0,0.0,1
+santana dos montes,20.0,0.0,2
+santanesia,18.0,0.0,4
+santarem,32.130434782608695,0.34782608695652173,43
+santiago,14.848484848484848,0.030303030303030304,26
+santo amaro,17.666666666666668,0.16666666666666666,10
+santo amaro da imperatriz,28.384615384615383,0.38461538461538464,11
+santo amaro das brotas,21.0,0.0,1
+santo amaro de campos,15.166666666666666,0.16666666666666666,6
+santo anastacio,10.227272727272727,0.0,17
+santo andre,7.450171821305842,0.037800687285223365,778
+santo angelo,13.203703703703704,0.0,45
+santo antonio,12.0,0.0,1
+santo antonio da alegria,6.333333333333333,0.0,3
+santo antonio da patrulha,14.277777777777779,0.0,17
+santo antonio da platina,12.0,0.0,12
+santo antonio das missoes,9.6,0.0,4
+santo antonio das queimadas,18.0,0.0,1
+santo antonio de jesus,15.4375,0.03125,29
+santo antonio de padua,16.485714285714284,0.14285714285714285,30
+santo antonio de posse,8.35,0.0,20
+santo antonio do amparo,11.0,0.0,4
+santo antonio do aracangua,8.0,0.0,1
+santo antonio do aventureiro,6.0,0.0,1
+santo antonio do caiua,10.0,0.0,1
+santo antonio do canaa,21.0,1.0,1
+santo antonio do descoberto,19.5,0.16666666666666666,5
+santo antonio do grama,7.5,0.0,2
+santo antonio do itambe,10.0,0.0,3
+santo antonio do jacinto,13.555555555555555,0.1111111111111111,7
+santo antonio do jardim,8.8,0.0,4
+santo antonio do leste,11.0,0.0,1
+santo antonio do leverger,14.0,0.0,1
+santo antonio do monte,12.733333333333333,0.0,14
+santo antonio do palma,11.5,0.0,2
+santo antonio do pinhal,7.5,0.0,2
+santo antonio do planalto,11.0,0.0,1
+santo antonio do rio abaixo,21.0,0.0,1
+santo antonio do sudoeste,19.0,0.0,3
+santo antonio do taua,25.0,0.0,1
+santo antonio dos campos,15.0,0.0,1
+santo augusto,14.777777777777779,0.1111111111111111,8
+santo cristo,19.428571428571427,0.14285714285714285,7
+santo eduardo,7.5,0.0,2
+santo estevao,14.5,0.0,5
+santo expedito,7.0,0.0,1
+santo expedito do sul,9.0,0.0,1
+santo hipolito,11.0,0.0,1
+santo inacio,11.0,0.0,1
+santos,8.616707616707616,0.08476658476658476,700
+santos dumont,11.869565217391305,0.043478260869565216,22
+sao benedito,16.857142857142858,0.0,5
+sao benedito do rio preto,24.0,0.0,1
+sao benedito do sul,19.0,0.0,1
+sao bentinho,15.0,0.0,1
+sao bento,21.4,0.2,5
+sao bento abade,12.0,0.0,1
+sao bento do sapucai,11.0,0.0,7
+sao bento do sul,12.851063829787234,0.06382978723404255,44
+sao bento do una,21.5,0.0,4
+sao bernardino,13.0,0.0,1
+sao bernardo,13.0,0.0,3
+sao bernardo do campo,7.4167468719923,0.05774783445620789,910
+sao bonifacio,12.0,0.0,1
+sao borja,15.11111111111111,0.05555555555555555,18
+sao bras,32.0,0.0,1
+sao bras do suacui,10.0,0.0,2
+sao caetano do sul,7.589403973509934,0.04304635761589404,272
+sao carlos,9.952029520295204,0.03690036900369004,235
+sao carlos do ivai,5.0,0.0,1
+sao clemente,22.0,1.0,1
+sao cristovao,17.25,0.0,7
+sao cristovao do sul,7.0,0.0,1
+sao desiderio,16.0,0.0,1
+sao domingos,17.142857142857142,0.0,7
+sao domingos das dores,7.0,0.0,1
+sao domingos do araguaia,15.0,0.0,1
+sao domingos do maranhao,15.5,0.0,2
+sao domingos do norte,23.571428571428573,0.14285714285714285,7
+sao domingos do prata,12.4,0.0,4
+sao felipe,25.0,0.5,2
+sao felix,36.0,1.0,1
+sao felix de minas,6.0,0.0,1
+sao felix do araguaia,18.0,0.0,1
+sao felix do coribe,15.0,0.0,1
+sao felix do xingu,38.888888888888886,0.3333333333333333,8
+sao fidelis,11.416666666666666,0.0,23
+sao francisco,13.842105263157896,0.10526315789473684,18
+sao francisco de assis,29.5,0.5,2
+sao francisco de itabapoana,13.3125,0.0625,15
+sao francisco de paula,13.285714285714286,0.0,7
+sao francisco do brejao,30.0,0.0,1
+sao francisco do conde,9.666666666666666,0.0,3
+sao francisco do gloria,5.0,0.0,1
+sao francisco do guapore,17.5,0.0,2
+sao francisco do sul,17.65,0.0,16
+sao gabriel,15.5,0.125,23
+sao gabriel da palha,14.923076923076923,0.15384615384615385,13
+sao gabriel do oeste,9.777777777777779,0.0,7
+sao geraldo,9.4,0.0,4
+sao geraldo da piedade,14.0,0.0,1
+sao geraldo do baguari,9.0,0.0,1
+sao goncalo,18.21852731591449,0.2494061757719715,385
+sao goncalo do abaete,11.5,0.0,2
+sao goncalo do amarante,16.692307692307693,0.15384615384615385,12
+sao goncalo do para,15.25,0.25,3
+sao goncalo do rio abaixo,11.333333333333334,0.0,6
+sao goncalo do rio das pedras,15.0,0.0,1
+sao goncalo do rio preto,14.333333333333334,0.0,3
+sao goncalo do sapucai,11.75,0.0,8
+sao gotardo,14.24,0.08,20
+sao jeronimo,11.333333333333334,0.0,7
+sao joao,16.23076923076923,0.07692307692307693,12
+sao joao batista,16.90909090909091,0.18181818181818182,11
+sao joao batista do gloria,11.666666666666666,0.0,3
+sao joao d'alianca,22.333333333333332,0.3333333333333333,3
+sao joao da barra,14.6875,0.0625,15
+sao joao da boa vista,10.840425531914894,0.031914893617021274,80
+sao joao da mata,17.0,0.3333333333333333,2
+sao joao da parauna,8.0,0.0,1
+sao joao da ponte,6.0,0.0,1
+sao joao da urtiga,4.0,0.0,1
+sao joao das missoes,9.0,0.0,2
+sao joao de iracema,20.666666666666668,0.3333333333333333,3
+sao joao de meriti,16.244897959183675,0.1836734693877551,124
+sao joao de petropolis,21.0,0.0,1
+sao joao de pirabas,46.0,1.0,2
+sao joao del rei,13.027397260273972,0.0821917808219178,66
+sao joao do ivai,14.0,0.0,2
+sao joao do manhuacu,8.5,0.0,2
+sao joao do manteninha,11.333333333333334,0.0,3
+sao joao do oriente,8.0,0.0,2
+sao joao do paraiso,17.333333333333332,0.16666666666666666,6
+sao joao do piaui,13.142857142857142,0.0,5
+sao joao do sabugi,12.0,0.0,1
+sao joao do sobrado,17.0,0.0,1
+sao joao do sul,15.5,0.0,2
+sao joao do triunfo,15.0,0.0,2
+sao joao dos patos,23.285714285714285,0.14285714285714285,7
+sao joao evangelista,16.5,0.3333333333333333,6
+sao joao nepomuceno,13.304347826086957,0.043478260869565216,14
+sao joaquim,14.181818181818182,0.0,9
+sao joaquim da barra,12.947368421052632,0.13157894736842105,33
+sao joaquim de bicas,12.7,0.1,8
+sao joaquim do monte,17.0,0.0,1
+sao jorge,12.0,0.0,1
+sao jorge d'oeste,15.0,0.0,1
+sao jorge do ivai,27.0,0.0,1
+sao jorge do oeste,15.0,0.0,1
+sao jorge do patrocinio,9.0,0.0,2
+sao jose,14.152284263959391,0.14213197969543148,167
+sao jose da barra,11.0,0.0,6
+sao jose da bela vista,9.75,0.0,3
+sao jose da boa vista,11.0,0.0,1
+sao jose da coroa grande,26.0,0.5,2
+sao jose da laje,29.0,0.5,2
+sao jose da lapa,12.25,0.0,8
+sao jose da tapera,19.0,0.0,1
+sao jose da vitoria,8.5,0.0,2
+sao jose de mipibu,17.333333333333332,0.0,3
+sao jose de ribamar,28.142857142857142,0.2857142857142857,14
+sao jose de uba,12.0,0.0,3
+sao jose do barreiro,17.0,0.0,3
+sao jose do belmonte,23.5,0.5,2
+sao jose do calcado,13.857142857142858,0.0,6
+sao jose do campestre,12.0,0.0,1
+sao jose do cedro,13.5,0.16666666666666666,5
+sao jose do cerrito,9.666666666666666,0.0,3
+sao jose do divino,15.0,0.0,2
+sao jose do egito,14.0,0.0,4
+sao jose do goiabal,13.5,0.0,2
+sao jose do hortencio,9.0,0.0,2
+sao jose do inhacora,16.0,0.0,1
+sao jose do norte,9.25,0.0,7
+sao jose do ouro,16.666666666666668,0.3333333333333333,5
+sao jose do piaui,12.0,0.0,1
+sao jose do ribeirao,21.0,0.0,1
+sao jose do rio claro,15.5,0.0,2
+sao jose do rio pardo,11.764705882352942,0.0784313725490196,44
+sao jose do rio preto,8.928191489361701,0.03723404255319149,329
+sao jose do serido,24.0,0.0,1
+sao jose do turvo,15.0,0.3333333333333333,3
+sao jose do vale do rio preto,13.384615384615385,0.07692307692307693,12
+sao jose do xingu,28.0,0.0,1
+sao jose dos campos,7.882585751978892,0.05672823218997362,667
+sao jose dos cordeiros,16.0,0.0,1
+sao jose dos pinhais,9.97887323943662,0.035211267605633804,130
+sao jose dos quatro marcos,14.0,0.0,2
+sao leopoldo,14.324561403508772,0.11403508771929824,103
+sao lourenco,11.131578947368421,0.05263157894736842,32
+sao lourenco da mata,21.75,0.16666666666666666,11
+sao lourenco da serra,6.4,0.0,12
+sao lourenco do oeste,12.555555555555555,0.0,9
+sao lourenco do piaui,13.0,0.0,1
+sao lourenco do sul,14.266666666666667,0.0,14
+sao ludgero,20.0,0.0,3
+sao luis,20.249336870026525,0.23607427055702918,335
+sao luis de montes belos,20.666666666666668,0.4444444444444444,7
+sao luis do curu,22.0,0.0,2
+sao luis do paraitinga,11.0,0.0,3
+sao luis do quitunde,38.5,0.5,2
+sao luiz do norte,9.0,0.0,1
+sao luiz gonzaga,10.882352941176471,0.0,15
+sao mamede,7.0,0.0,1
+sao manuel,9.35,0.0,20
+sao marcos,14.6,0.0,9
+sao martinho,11.0,0.0,3
+sao mateus,15.56,0.1,47
+sao mateus de minas,29.0,1.0,1
+sao mateus do maranhao,19.75,0.25,3
+sao mateus do sul,13.35,0.1,15
+sao miguel,16.6,0.0,4
+sao miguel arcanjo,8.461538461538462,0.0,13
+sao miguel das matas,22.0,0.0,1
+sao miguel do aleixo,18.0,0.0,1
+sao miguel do anta,8.0,0.0,1
+sao miguel do araguaia,11.571428571428571,0.0,5
+sao miguel do cambui,12.0,0.0,1
+sao miguel do gostoso,33.0,0.5,2
+sao miguel do guama,22.0,0.0,5
+sao miguel do guapore,19.8,0.0,4
+sao miguel do iguacu,13.0,0.1111111111111111,9
+sao miguel do oeste,13.574468085106384,0.06382978723404255,39
+sao miguel do tapuio,5.0,0.0,2
+sao miguel dos campos,47.4,1.0,2
+sao nicolau,20.0,0.0,1
+sao patricio,4.0,0.0,1
+sao paulo,7.56361337777267,0.06217676129180554,15046
+sao paulo das missoes,13.333333333333334,0.0,2
+sao paulo do potengi,21.5,0.0,2
+sao pedro,11.571428571428571,0.14285714285714285,12
+sao pedro da agua branca,19.0,0.0,1
+sao pedro da aldeia,15.46,0.14,46
+sao pedro da uniao,11.666666666666666,0.0,3
+sao pedro de alcantara,11.5,0.0,2
+sao pedro do butia,9.0,0.0,1
+sao pedro do iguacu,43.0,1.0,1
+sao pedro do ivai,13.666666666666666,0.0,3
+sao pedro do sul,18.0,0.0,1
+sao pedro do turvo,14.0,0.0,2
+sao pedro dos ferros,10.25,0.0,4
+sao rafael,21.0,0.0,1
+sao raimundo nonato,16.636363636363637,0.0,7
+sao romao,10.166666666666666,0.0,5
+sao roque,8.715909090909092,0.03409090909090909,75
+sao roque de minas,10.0,0.0,2
+sao roque do canaa,17.8,0.2,5
+sao sebastiao,10.35135135135135,0.04054054054054054,57
+sao sebastiao da amoreira,20.0,0.0,1
+sao sebastiao da boa vista,15.0,0.0,2
+sao sebastiao da grama,15.75,0.25,4
+sao sebastiao da serra,19.0,0.0,1
+sao sebastiao de campos,34.0,1.0,1
+sao sebastiao do alto,12.666666666666666,0.0,4
+sao sebastiao do cai,10.705882352941176,0.058823529411764705,12
+sao sebastiao do maranhao,16.0,0.0,3
+sao sebastiao do paraiba,18.0,0.0,1
+sao sebastiao do paraiso,11.945945945945946,0.05405405405405406,35
+sao sebastiao do passe,14.0,0.0,5
+sao sebastiao do rio verde,11.0,0.0,1
+sao sepe,13.75,0.0,6
+sao simao,14.76923076923077,0.0,13
+sao thome das letras,17.0,0.0,2
+sao tiago,17.4,0.2,5
+sao tomas de aquino,7.75,0.0,3
+sao tome,19.333333333333332,0.0,3
+sao valentim,17.333333333333332,0.0,3
+sao vendelino,16.5,0.0,2
+sao vicente,10.649425287356323,0.1206896551724138,159
+sao vicente ferrer,16.0,0.0,2
+sao vitor,23.0,0.0,1
+sape,15.5,0.0,2
+sapeacu,12.666666666666666,0.0,2
+sapezal,16.25,0.0,8
+sapiranga,13.178571428571429,0.07142857142857142,23
+sapopema,13.5,0.0,2
+sapucai-mirim,14.75,0.0,4
+sapucaia,11.333333333333334,0.0,5
+sapucaia do sul,15.97872340425532,0.10638297872340426,39
+saquarema,17.34,0.18,45
+sarandi,9.727272727272727,0.0,22
+sarapui,36.0,0.5,2
+sardoa,11.0,0.0,1
+sarutaia,10.0,0.0,1
+sarzedo,9.473684210526315,0.05263157894736842,18
+satiro dias,17.0,0.0,1
+satuba,12.5,0.0,2
+satubinha,19.666666666666668,0.0,2
+saubara,12.0,0.0,1
+saudade do iguacu,11.5,0.0,4
+saudades,25.285714285714285,0.0,4
+saude,22.5,0.5,2
+schroeder,14.0,0.0,9
+seabra,16.571428571428573,0.0,6
+seara,11.8,0.0,5
+sebastiao leal,12.0,0.0,1
+seberi,20.5,0.0,2
+sede alvorada,20.0,1.0,1
+segredo,9.0,0.0,1
+selbach,15.0,0.0,1
+senador amaral,16.0,0.0,2
+senador canedo,16.666666666666668,0.16666666666666666,16
+senador cortes,9.0,0.0,1
+senador firmino,13.0,0.0,2
+senador guiomard,13.666666666666666,0.0,2
+senador jose porfirio,23.0,0.0,1
+senador la rocque,12.0,0.0,1
+senador modestino goncalves,13.5,0.0,2
+senador pompeu,25.75,0.25,4
+senador salgado filho,6.0,0.0,1
+senges,22.0,0.5714285714285714,5
+senhor do bonfim,15.791666666666666,0.0,18
+senhora de oliveira,19.0,0.25,2
+senhora dos remedios,9.0,0.0,1
+sento se,31.0,0.0,1
+serafina correa,19.666666666666668,0.2222222222222222,9
+sericita,8.0,0.0,2
+seringueiras,21.5,0.0,2
+serio,13.0,0.0,1
+seropedica,11.609756097560975,0.04878048780487805,33
+serra,16.560260586319217,0.1563517915309446,278
+serra azul,24.0,1.0,1
+serra azul de minas,8.0,0.0,2
+serra bonita,31.0,0.0,1
+serra branca,11.0,0.0,1
+serra de sao bento,14.0,0.0,2
+serra do ramalho,20.75,0.25,4
+serra do salitre,13.0,0.0,1
+serra dos aimores,10.0,0.0,5
+serra dos dourados,74.0,1.0,1
+serra dourada,16.0,0.0,2
+serra negra,7.8125,0.0,13
+serra talhada,17.76923076923077,0.0,10
+serrana,9.384615384615385,0.07692307692307693,13
+serrania,16.0,0.5,2
+serranopolis,16.666666666666668,0.0,3
+serranopolis de minas,16.0,0.0,1
+serranopolis do iguacu,17.0,0.0,2
+serrinha,17.5625,0.0625,14
+serrita,31.0,0.5,2
+serro,12.5,0.0,2
+serrolandia,15.5,0.0,2
+sertania,18.75,0.25,4
+sertanopolis,8.8,0.0,4
+sertao,16.2,0.0,3
+sertao santana,14.0,0.0,1
+sertaozinho,9.534246575342467,0.0136986301369863,61
+sete barras,9.6,0.0,4
+sete de setembro,11.0,0.0,1
+sete lagoas,12.623188405797102,0.036231884057971016,126
+setubinha,9.25,0.0,3
+severiano melo,31.0,1.0,1
+severinia,11.5,0.16666666666666666,5
+sideropolis,12.75,0.0,4
+sidrolandia,14.0,0.08333333333333333,11
+silva jardim,8.666666666666666,0.0,4
+silvania,15.857142857142858,0.14285714285714285,7
+silvano,14.0,0.0,1
+silvanopolis,13.0,0.0,1
+silveira carvalho,15.0,0.0,1
+silveira martins,17.0,0.0,1
+silveiras,9.8,0.0,3
+silvianopolis,13.333333333333334,0.0,3
+simao dias,12.571428571428571,0.0,7
+simao pereira,5.0,0.0,1
+simoes filho,15.8,0.04,21
+simolandia,8.5,0.0,2
+simonesia,10.375,0.0,8
+simplicio mendes,10.0,0.0,1
+sinimbu,12.0,0.0,2
+sinop,19.685185185185187,0.12962962962962962,43
+siqueira campos,10.1,0.0,9
+siriji,3.0,0.0,1
+sirinhaem,18.8,0.0,5
+sitio do quinto,21.0,0.0,2
+sitio novo,8.0,0.0,2
+sitio novo do tocantins,17.5,0.25,2
+sobradinho,18.181818181818183,0.2727272727272727,9
+sobral,24.205882352941178,0.17647058823529413,33
+sobralia,8.0,0.0,1
+socorro,7.304347826086956,0.0,19
+solanea,14.0,0.0,1
+soledade,19.0,0.0,8
+soledade de minas,10.8,0.0,5
+solonopole,22.0,0.0,2
+sombrio,17.333333333333332,0.25,10
+sonora,12.0,0.0,2
+sooretama,19.285714285714285,0.42857142857142855,5
+sorocaba,7.363372093023256,0.04215116279069767,609
+sorriso,15.76,0.0,20
+sousa,15.125,0.0,7
+sucesso,25.333333333333332,0.0,3
+sucupira do norte,14.5,0.0,2
+sud mennucci,7.2,0.0,5
+sulina,13.0,0.0,1
+sumare,9.402985074626866,0.14427860696517414,177
+sume,20.666666666666668,0.0,3
+sumidouro,18.7,0.4,10
+surubim,20.8,0.0,5
+suzanapolis,14.0,0.0,1
+suzano,7.692913385826771,0.047244094488188976,230
+tabapora,12.5,0.0,2
+tabapua,8.615384615384615,0.0,12
+tabatinga,11.4,0.2,5
+tabira,21.4,0.2,5
+taboao da serra,6.5186335403726705,0.043478260869565216,284
+tabocas do brejo velho,19.666666666666668,0.0,3
+taboquinhas,6.0,0.0,1
+tabuleiro,14.0,0.0,2
+tabuleiro do norte,37.0,1.0,1
+tacaratu,42.0,0.5,2
+taciba,14.5,0.0,2
+tacuru,17.0,0.0,1
+taguai,7.454545454545454,0.0,10
+taguatinga,11.916666666666666,0.0,7
+taiacu,6.0,0.0,1
+tailandia,27.5,0.25,4
+taio,17.88235294117647,0.11764705882352941,14
+taiobeiras,14.642857142857142,0.0,13
+taiuva,7.666666666666667,0.0,5
+tamandare,15.0,0.0,1
+tamarana,14.333333333333334,0.0,2
+tambau,10.571428571428571,0.047619047619047616,19
+tamboara,12.0,0.0,1
+tanabi,10.916666666666666,0.0,11
+tangara,19.0,0.0,1
+tangara da serra,19.695652173913043,0.17391304347826086,23
+tangua,15.833333333333334,0.0,6
+tanhacu,26.0,0.0,4
+tanque d'arca,20.0,0.0,2
+tanque novo,23.333333333333332,0.3333333333333333,3
+taparuba,6.0,0.0,1
+tapejara,13.454545454545455,0.0,11
+tapera,7.0,0.0,1
+taperuaba,13.0,0.0,1
+tapes,10.333333333333334,0.0,6
+tapinas,13.0,0.0,1
+tapirai,17.5,0.5,2
+tapiramuta,27.5,0.0,2
+tapiratiba,11.75,0.08333333333333333,12
+tapurah,17.0,0.0,1
+taquara,12.318181818181818,0.0,21
+taquaracu de minas,18.5,0.5,2
+taquarana,17.0,0.0,1
+taquari,12.076923076923077,0.0,11
+taquaritinga,9.945945945945946,0.05405405405405406,33
+taquaritinga do norte,18.444444444444443,0.0,6
+taquarituba,9.470588235294118,0.0,15
+taquarivai,9.333333333333334,0.0,3
+taquarucu do sul,8.0,0.0,1
+tarabai,12.4,0.0,5
+taruma,8.7,0.0,9
+tarumirim,9.0,0.0,4
+tatui,9.707317073170731,0.012195121951219513,72
+taua,16.9,0.0,10
+taubate,9.820945945945946,0.030405405405405407,260
+tavares,16.0,0.0,1
+tecainda,14.0,0.0,1
+teixeira,16.0,0.0,1
+teixeira de freitas,16.20689655172414,0.10344827586206896,28
+teixeira soares,7.0,0.0,1
+teixeiras,14.142857142857142,0.14285714285714285,6
+tejupa,11.0,0.0,3
+telemaco borba,10.486486486486486,0.0,34
+telha,15.0,0.0,1
+tenente ananias,21.0,0.0,1
+tenente portela,20.0,0.0,3
+teodoro sampaio,10.461538461538462,0.0,13
+teofilandia,23.0,0.3333333333333333,3
+teofilo otoni,12.042553191489361,0.05319148936170213,75
+teolandia,13.5,0.0,4
+teotonio vilela,26.142857142857142,0.14285714285714285,7
+terenos,18.0,0.0,1
+teresina,19.164948453608247,0.20962199312714777,269
+teresina de goias,15.0,0.0,1
+teresopolis,14.744186046511627,0.13178294573643412,119
+terezinha,35.0,0.0,1
+termas de ibira,15.0,0.0,1
+terra boa,15.5,0.0,4
+terra de areia,11.6,0.0,5
+terra nova,13.0,0.0,1
+terra nova do norte,14.333333333333334,0.0,3
+terra rica,12.142857142857142,0.0,7
+terra roxa,16.0,0.0,5
+teutonia,13.375,0.0625,13
+tiangua,40.333333333333336,0.4444444444444444,9
+tibagi,11.5,0.0,4
+tibau do sul,18.0,0.0,1
+tiete,13.404761904761905,0.2619047619047619,35
+tijucas,15.933333333333334,0.06666666666666667,30
+timbauba,21.0,0.14285714285714285,7
+timbe do sul,12.0,0.0,3
+timbo,15.818181818181818,0.09090909090909091,20
+timburi,6.333333333333333,0.0,3
+timon,21.416666666666668,0.16666666666666666,11
+timoteo,10.951612903225806,0.016129032258064516,52
+tiradentes,15.0,0.0,4
+tiradentes do sul,16.0,0.0,1
+tiros,11.666666666666666,0.0,3
+tobias barreto,16.5,0.0,2
+tocantinopolis,18.25,0.125,7
+tocantins,9.333333333333334,0.0,6
+tocos,8.0,0.0,2
+tocos do moji,14.0,0.0,1
+toledo,13.763157894736842,0.11842105263157894,70
+tomar do geru,12.5,0.0,2
+tomazina,11.0,0.0,3
+tombos,18.0,0.0,4
+tome-acu,27.0,0.0,1
+toritama,17.4,0.0,5
+toropi,12.0,0.0,3
+torres,12.571428571428571,0.047619047619047616,17
+torrinha,14.5,0.16666666666666666,6
+trabiju,7.0,0.0,1
+tracuateua,26.0,0.0,1
+tracunhaem,17.0,0.0,1
+traipu,23.0,0.0,1
+trairi,24.0,0.0,2
+trajano de moraes,28.125,0.375,8
+tramandai,15.75,0.03571428571428571,25
+trancoso,31.444444444444443,0.3333333333333333,6
+travessao,13.2,0.0,4
+travesseiro,13.0,0.0,1
+tremembe,10.5,0.1,38
+tres arroios,15.0,0.0,3
+tres barras,9.6,0.0,5
+tres cachoeiras,11.0,0.0,7
+tres coracoes,14.153846153846153,0.1346153846153846,41
+tres coroas,14.833333333333334,0.0,6
+tres de maio,10.285714285714286,0.0,12
+tres forquilhas,20.0,0.0,1
+tres fronteiras,9.0,0.0,5
+tres irmaos,21.0,0.0,1
+tres lagoas,19.97872340425532,0.1276595744680851,42
+tres marias,18.153846153846153,0.15384615384615385,13
+tres passos,17.083333333333332,0.08333333333333333,11
+tres pontas,9.894736842105264,0.05263157894736842,19
+tres rios,13.538461538461538,0.10256410256410256,38
+treviso,14.0,0.0,1
+treze tilias,14.142857142857142,0.07142857142857142,11
+trindade,15.466666666666667,0.1,28
+trindade do sul,9.75,0.0,4
+triunfo,13.882352941176471,0.0,14
+trombas,15.0,0.0,1
+trombudo central,17.75,0.25,4
+tubarao,14.82089552238806,0.11940298507462686,60
+tucano,17.25,0.125,8
+tucuma,34.666666666666664,0.3333333333333333,3
+tucunduva,8.666666666666666,0.0,3
+tucurui,17.94736842105263,0.0,16
+tuiuti,11.0,0.0,1
+tumiritinga,6.0,0.0,1
+tunapolis,12.0,0.0,1
+tunas do parana,11.5,0.0,2
+tupa,9.770491803278688,0.04918032786885246,52
+tupaciguara,10.875,0.0,13
+tupancireta,24.0,0.5,4
+tupandi,15.333333333333334,0.0,3
+tuparece,13.0,0.0,1
+tuparendi,10.5,0.0,2
+tuparetama,9.333333333333334,0.0,3
+tupassi,13.0,0.0,1
+tupi paulista,8.75,0.0,6
+turmalina,10.9,0.0,9
+tururu,40.0,1.0,1
+turvania,22.5,0.0,2
+turvelandia,20.0,0.0,1
+turvo,16.833333333333332,0.0,6
+turvolandia,15.5,0.0,2
+tutoia,15.0,0.0,2
+uaua,22.0,0.3333333333333333,3
+uba,13.235294117647058,0.14705882352941177,53
+ubai,11.0,0.0,1
+ubaira,17.666666666666668,0.16666666666666666,6
+ubaitaba,19.25,0.0,4
+ubajara,15.125,0.125,3
+ubaporanga,11.5,0.0,3
+ubata,17.0,0.0,1
+ubatuba,12.036144578313253,0.07228915662650602,72
+uberaba,10.676328502415458,0.04830917874396135,186
+uberlandia,11.138957816377172,0.03722084367245657,367
+ubirajara,7.0,0.0,1
+ubirata,13.142857142857142,0.0,7
+uchoa,7.333333333333333,0.0,3
+uibai,13.25,0.0,4
+uirauna,17.0,0.0,1
+ulianopolis,31.0,0.0,1
+umbauba,25.333333333333332,0.3333333333333333,3
+umburanas,15.0,0.0,1
+umburatiba,6.0,0.0,1
+umuarama,13.925,0.075,40
+una,23.25,0.25,4
+unai,12.333333333333334,0.08771929824561403,54
+uniao,15.0,0.0,1
+uniao da serra,16.0,0.0,1
+uniao da vitoria,14.170212765957446,0.0425531914893617,29
+uniao de minas,12.666666666666666,0.0,3
+uniao do oeste,19.0,0.0,1
+uniao do sul,16.0,0.0,1
+uniao dos palmares,27.0,0.0,1
+unistalda,16.0,0.0,1
+upanema,20.8,0.0,3
+urai,12.0,0.0,3
+urandi,12.0,0.0,2
+urania,11.5,0.0,4
+urbano santos,23.4,0.2,5
+uruacu,12.421052631578947,0.0,17
+uruana,11.5,0.0,3
+uruana de minas,21.0,0.0,1
+uruara,23.857142857142858,0.0,6
+urubici,13.5,0.0,3
+uruburetama,12.0,0.0,1
+urucania,8.0,0.0,1
+urucuca,27.0,0.0,2
+urucui,23.8,0.0,4
+urucuia,16.0,0.0,1
+urucurituba,32.0,0.0,2
+uruguaiana,11.351851851851851,0.0,47
+uruoca,36.0,0.6666666666666666,2
+urupa,25.666666666666668,0.0,3
+urupes,8.166666666666666,0.0,10
+urussanga,16.3,0.1,10
+urutai,16.333333333333332,0.3333333333333333,3
+utinga,15.333333333333334,0.0,3
+vacaria,13.0,0.0,21
+valao do barro,33.0,1.0,1
+vale do sol,15.0,0.0,1
+vale real,15.0,0.0,3
+valenca,15.818181818181818,0.10606060606060606,61
+valenca do piaui,13.0,0.0,4
+valente,17.3,0.2,9
+valentim gentil,7.333333333333333,0.0,3
+valinhos,8.046728971962617,0.06074766355140187,181
+valparaiso,8.0,0.0,8
+valparaiso de goias,13.833333333333334,0.047619047619047616,37
+vanini,31.0,0.0,1
+vargeao,10.0,0.0,1
+vargem,7.5,0.0,2
+vargem alegre,5.0,0.0,1
+vargem alta,28.4,0.4,5
+vargem bonita,15.166666666666666,0.0,5
+vargem grande,18.0,0.0,1
+vargem grande do rio pardo,37.0,1.0,1
+vargem grande do soturno,27.0,1.0,1
+vargem grande do sul,8.75,0.0,12
+vargem grande paulista,7.416666666666667,0.041666666666666664,43
+varginha,11.346938775510203,0.030612244897959183,88
+varjao de minas,10.5,0.0,2
+varjota,22.0,0.0,4
+varre-sai,22.25,0.25,4
+varzea,27.0,0.0,1
+varzea alegre,26.5,0.0,2
+varzea da palma,12.363636363636363,0.0,11
+varzea do poco,19.0,0.0,1
+varzea grande,19.954545454545453,0.09090909090909091,38
+varzea nova,12.0,0.0,1
+varzea paulista,10.634146341463415,0.036585365853658534,75
+varzedo,11.0,0.0,1
+varzelandia,13.0,0.0,2
+vassouras,12.177777777777777,0.1111111111111111,36
+vazante,10.777777777777779,0.0,6
+venancio aires,15.296296296296296,0.037037037037037035,26
+venda branca,10.0,0.0,1
+venda nova do imigrante,16.5,0.0,15
+ventania,6.666666666666667,0.0,3
+venturosa,29.0,0.5,2
+vera,21.75,0.0,3
+vera cruz,22.272727272727273,0.22727272727272727,21
+vera cruz do oeste,14.333333333333334,0.0,3
+veranopolis,11.73076923076923,0.0,18
+vere,26.666666666666668,0.3333333333333333,3
+vereda,18.0,0.0,2
+verissimo,12.0,0.0,3
+vermelho,11.0,0.0,1
+vermelho novo,29.0,1.0,1
+vertentes,13.0,0.0,1
+vespasiano,10.26086956521739,0.06521739130434782,41
+vespasiano correa,15.0,0.0,1
+viamao,18.390243902439025,0.10975609756097561,70
+viana,18.7,0.26666666666666666,26
+vianopolis,11.75,0.0,3
+vicencia,15.0,0.0,2
+vicente dutra,14.0,0.0,1
+vicentina,18.0,0.0,1
+vicentinopolis,16.5,0.0,2
+vicosa,11.226415094339623,0.0660377358490566,89
+vicosa do ceara,40.0,1.0,1
+victor graeff,27.5,0.0,2
+videira,18.16,0.08,44
+vieiras,9.0,0.0,1
+vigia,20.0,0.0,2
+vila bela da santissima trindade,15.0,0.0,1
+vila dos cabanos,26.75,0.25,4
+vila flor,17.0,0.0,1
+vila flores,10.666666666666666,0.0,3
+vila langaro,18.0,0.0,3
+vila muriqui,8.714285714285714,0.0,7
+vila nelita,34.333333333333336,1.0,2
+vila nova,23.0,0.5,2
+vila nova do sul,28.0,1.0,1
+vila pereira,32.0,1.0,1
+vila reis,20.0,0.0,1
+vila rica,21.0,0.0,3
+vila valerio,19.0,0.1,8
+vila velha,16.579387186629525,0.15598885793871867,326
+vilhena,18.94736842105263,0.0,16
+vinhedo,7.757009345794392,0.009345794392523364,90
+viradouro,10.12,0.04,18
+virgem da lapa,17.0,0.3333333333333333,3
+virginia,10.0,0.0,1
+virginopolis,12.0,0.0,7
+virgolandia,7.0,0.0,2
+visconde de maua,25.0,0.6666666666666666,3
+visconde do rio branco,11.7,0.0,18
+viseu,19.0,0.0,1
+vista alegre,15.0,0.0,1
+vista alegre do alto,17.333333333333332,0.3333333333333333,3
+vitoria,13.81904761904762,0.12142857142857143,374
+vitoria da conquista,15.601941747572816,0.05825242718446602,88
+vitoria das missoes,12.0,0.0,1
+vitoria de santo antao,18.705882352941178,0.058823529411764705,15
+vitoria do jari,39.0,0.0,1
+vitoria do mearim,26.0,0.0,1
+vitorino,9.0,0.0,1
+vitorino freire,13.333333333333334,0.0,3
+vitorinos,18.0,0.0,1
+volta grande,17.5,0.25,4
+volta redonda,15.984,0.18,227
+votorantim,7.622448979591836,0.09183673469387756,84
+votuporanga,10.144736842105264,0.013157894736842105,63
+wagner,14.0,0.0,1
+wanderley,26.0,0.5,2
+wenceslau braz,8.0,0.0,2
+wenceslau guimaraes,22.0,0.0,1
+werneck,22.0,0.5,2
+witmarsum,12.333333333333334,0.0,3
+xambioa,13.0,0.0,3
+xambre,10.5,0.0,2
+xangri-la,16.666666666666668,0.1111111111111111,8
+xanxere,15.657142857142857,0.0,29
+xapuri,24.0,0.0,2
+xavantina,16.0,0.0,2
+xaxim,16.6,0.2,10
+xexeu,8.0,0.0,1
+xinguara,30.1,0.2,9
+xique-xique,15.666666666666666,0.0,3
+zacarias,14.5,0.5,2
+ze doca,28.8,0.4,5
+zortea,20.0,0.0,2
